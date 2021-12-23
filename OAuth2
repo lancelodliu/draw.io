@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T06:48:26.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="8kRtxf27ytYiDCucSWhm" version="16.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-23T06:48:36.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="99toHR4nvMsNWogEqyHY" version="16.0.3" type="github" pages="2">
   <diagram id="oBolpGbDob8P0wlSsQUs" name="授权码">
     <mxGraphModel dx="1252" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
             <mxPoint x="-112" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JPeSahjrQXi0yRS8HVZ3-20" value="&lt;p style=&quot;margin: 0in ; line-height: 21pt ; font-family: &amp;quot;microsoft yahei&amp;quot; ; font-size: 11.0pt ; color: black&quot;&gt;注意，令牌的位置是 URL&#xa;锚点（fragment），而不是查询字符串（querystring），这是因为 OAuth 2.0 允许跳转网址是 HTTP&#xa;协议，因此存在&quot;中间人攻击&quot;的风险，而浏览器跳转时，锚点不会发到服务器，就减少了泄漏令牌的风险。&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RxEO6NkutwHMPwZvbPkT-1">
+        <mxCell id="JPeSahjrQXi0yRS8HVZ3-20" value="&lt;p style=&quot;margin: 0in ; line-height: 21pt ; font-family: &amp;#34;microsoft yahei&amp;#34; ; font-size: 11.0pt ; color: black&quot;&gt;注意，令牌的位置是 URL锚点（fragment），而不是查询字符串（querystring），这是因为 OAuth 2.0 允许跳转网址是 HTTP协议，因此存在&quot;中间人攻击&quot;的风险，而浏览器跳转时，锚点不会发到服务器，就减少了泄漏令牌的风险。&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RxEO6NkutwHMPwZvbPkT-1">
           <mxGeometry x="70" y="390" width="550" height="160" as="geometry" />
         </mxCell>
       </root>
