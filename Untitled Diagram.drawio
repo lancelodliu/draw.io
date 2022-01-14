@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T07:35:31.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="ToeYRO8WyR7aWyLTZfYa" version="16.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-14T07:37:05.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="xkz5q5h5s36gmPsFyJTX" version="16.0.3" type="github" pages="2">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="1502" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZ53Xy33LP4GwxtxV8D0-3" value="CI Pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#0000FF;strokeColor=none;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;labelPosition=right;" parent="1" vertex="1">
+        <mxCell id="hZ53Xy33LP4GwxtxV8D0-3" value="CI Pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4285F4;strokeColor=none;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;labelPosition=right;" parent="1" vertex="1">
           <mxGeometry x="359" y="210" width="78" height="42" as="geometry" />
         </mxCell>
         <mxCell id="hZ53Xy33LP4GwxtxV8D0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hZ53Xy33LP4GwxtxV8D0-4" target="hZ53Xy33LP4GwxtxV8D0-3" edge="1">
@@ -29,7 +29,7 @@
         <mxCell id="hZ53Xy33LP4GwxtxV8D0-4" value="XPay Repo&lt;br&gt;Component code" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/repo-forked-128.png" parent="1" vertex="1">
           <mxGeometry x="279" y="80" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hZ53Xy33LP4GwxtxV8D0-8" value="Gated Pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#0000FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="1" vertex="1">
+        <mxCell id="hZ53Xy33LP4GwxtxV8D0-8" value="Gated Pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4285F4;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="1" vertex="1">
           <mxGeometry x="190" y="210" width="78" height="42" as="geometry" />
         </mxCell>
         <mxCell id="hZ53Xy33LP4GwxtxV8D0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;" parent="1" source="hZ53Xy33LP4GwxtxV8D0-12" target="hZ53Xy33LP4GwxtxV8D0-15" edge="1">
@@ -52,9 +52,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hZ53Xy33LP4GwxtxV8D0-14" value="Edge Repo" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/repo-forked-128.png" parent="1" vertex="1">
-          <mxGeometry x="199" y="510" width="60" height="60" as="geometry" />
+          <mxGeometry x="190" y="510" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hZ53Xy33LP4GwxtxV8D0-15" value="CRX Build Pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#0000FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="1" vertex="1">
+        <mxCell id="hZ53Xy33LP4GwxtxV8D0-15" value="CRX Build Pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4285F4;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="1" vertex="1">
           <mxGeometry x="359" y="519" width="78" height="42" as="geometry" />
         </mxCell>
         <mxCell id="hZ53Xy33LP4GwxtxV8D0-20" value="&lt;h1 style=&quot;font-size: 12px;&quot;&gt;Artifact&lt;/h1&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;We can leverage Azure artifact or use a web server to serve the zip file.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;labelBorderColor=default;spacingBottom=0;" parent="1" vertex="1">
