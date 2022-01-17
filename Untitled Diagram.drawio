@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T02:02:46.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="MSJe9LQrxIUgl9NRuS3K" version="16.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-17T02:04:05.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="Qz8b3_EiW4KAeHf7IXLr" version="16.2.6" type="github" pages="2">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="1502" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -148,6 +148,9 @@
         <mxCell id="1rEJnnnodCpan0bJ0dBE-7" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.9) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; text-align: left ; background-color: rgba(0 , 0 , 0 , 0.06)&quot;&gt;&amp;lt;keyname&amp;gt;.der&lt;/span&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=right;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;rounded=1;shadow=0;glass=0;sketch=0;labelPosition=left;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
           <mxGeometry x="387.13" y="308" width="47.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="SV2UK7K64rMROo8Wy5j_-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" edge="1" parent="sZe8FNBouu0Gg12doHUx-1" source="1rEJnnnodCpan0bJ0dBE-9" target="SV2UK7K64rMROo8Wy5j_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1rEJnnnodCpan0bJ0dBE-9" value="&lt;span style=&quot;font-family: menlo, consolas, &amp;quot;courier new&amp;quot;, monospace; text-align: left; background-color: rgba(0, 0, 0, 0.06);&quot;&gt;&amp;lt;keyname&amp;gt;.pem&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FF8000;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;rounded=1;shadow=0;glass=0;sketch=0;fontColor=#FF8000;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
           <mxGeometry x="387.13" y="628" width="47.5" height="50" as="geometry" />
         </mxCell>
@@ -162,6 +165,9 @@
         </mxCell>
         <mxCell id="1rEJnnnodCpan0bJ0dBE-16" value="&lt;h1&gt;Retrieve CrxId from dummy zip file&lt;/h1&gt;&lt;div&gt;crx_tool /mode=sign /key=&amp;lt;keyname&amp;gt;.der /zip=dummy.zip /crx=output.crx&lt;br&gt;&lt;/div&gt;&lt;div&gt;crx_tool /mode=verify /crx=output.crx&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;shadow=0;sketch=0;glass=0;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
           <mxGeometry x="515" y="285" width="442" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="SV2UK7K64rMROo8Wy5j_-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" edge="1" parent="sZe8FNBouu0Gg12doHUx-1" source="1rEJnnnodCpan0bJ0dBE-17" target="SV2UK7K64rMROo8Wy5j_-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1rEJnnnodCpan0bJ0dBE-17" value="Crx APP ID" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;shadow=0;glass=0;sketch=0;fontFamily=Helvetica;strokeColor=#FF8000;fontSize=18;fontStyle=1;fontColor=#FF8000;labelBorderColor=none;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
           <mxGeometry x="787" y="635" width="120" height="48" as="geometry" />
