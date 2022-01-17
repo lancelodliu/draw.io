@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T01:39:07.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="J2gNn7_RctEB3c_GP_Xc" version="16.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-17T01:39:31.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="aCGwI9n1HTLQg0bPySy5" version="16.2.6" type="github" pages="2">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="1502" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -154,7 +154,7 @@
         <mxCell id="1rEJnnnodCpan0bJ0dBE-16" value="&lt;h1&gt;Retrieve CrxId from dummy zip file&lt;/h1&gt;&lt;div&gt;crx_tool /mode=sign /key=&amp;lt;keyname&amp;gt;.der /zip=dummy.zip /crx=output.crx&lt;br&gt;&lt;/div&gt;&lt;div&gt;crx_tool /mode=verify /crx=output.crx&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;shadow=0;sketch=0;glass=0;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
           <mxGeometry x="822" y="288" width="442" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="1rEJnnnodCpan0bJ0dBE-17" value="Crx APP ID" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;shadow=0;glass=0;sketch=0;fontFamily=Helvetica;strokeColor=default;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
+        <mxCell id="1rEJnnnodCpan0bJ0dBE-17" value="Crx APP ID" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;shadow=0;glass=0;sketch=0;fontFamily=Helvetica;strokeColor=#FF8000;fontSize=18;fontStyle=1;fontColor=#FF8000;labelBorderColor=none;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
           <mxGeometry x="983" y="434" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
