@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T01:34:22.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="_srDXcQUGb_8of744eFl" version="16.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-17T01:34:53.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="zysRbsuYVHOYd5X-XqYL" version="16.2.6" type="github" pages="2">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="1502" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-P9GrZFYxZjrkA4sCNLT" name="CRX Build pipeline">
-    <mxGraphModel dx="1502" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="sZe8FNBouu0Gg12doHUx-0" />
         <mxCell id="sZe8FNBouu0Gg12doHUx-1" parent="sZe8FNBouu0Gg12doHUx-0" />
@@ -107,15 +107,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="25JST4IFipWogcMkS16e-0" value="Edge Repo&lt;br&gt;chromium.src" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/repo-forked-128.png" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
-          <mxGeometry x="300" y="50" width="60" height="60" as="geometry" />
+          <mxGeometry x="177.75" y="48" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1rEJnnnodCpan0bJ0dBE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="sZe8FNBouu0Gg12doHUx-1" source="1rEJnnnodCpan0bJ0dBE-0" target="1rEJnnnodCpan0bJ0dBE-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="533.13" y="170" as="targetPoint" />
+            <mxPoint x="410.88" y="168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1rEJnnnodCpan0bJ0dBE-0" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
-          <mxGeometry x="453.13" y="70" width="160" height="40" as="geometry" />
+          <mxGeometry x="330.88" y="68" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1rEJnnnodCpan0bJ0dBE-1" value="Build crx_tool" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=container_builder;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="1rEJnnnodCpan0bJ0dBE-0">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
@@ -126,22 +126,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1rEJnnnodCpan0bJ0dBE-6" value="&lt;h1&gt;Generate key pairs&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.9) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; background-color: rgba(0 , 0 , 0 , 0.06)&quot;&gt;crx_tool /mode=createkey /key=&amp;lt;keyname&amp;gt;.der&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;shadow=0;sketch=0;glass=0;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
-          <mxGeometry x="415.63" y="160" width="235" height="90" as="geometry" />
+          <mxGeometry x="293.38" y="158" width="235" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1rEJnnnodCpan0bJ0dBE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="sZe8FNBouu0Gg12doHUx-1" source="1rEJnnnodCpan0bJ0dBE-7" target="1rEJnnnodCpan0bJ0dBE-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rEJnnnodCpan0bJ0dBE-7" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.9) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; text-align: left ; background-color: rgba(0 , 0 , 0 , 0.06)&quot;&gt;&amp;lt;keyname&amp;gt;.der&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;rounded=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
-          <mxGeometry x="509.38" y="310" width="47.5" height="50" as="geometry" />
+        <mxCell id="1rEJnnnodCpan0bJ0dBE-7" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.9) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; text-align: left ; background-color: rgba(0 , 0 , 0 , 0.06)&quot;&gt;&amp;lt;keyname&amp;gt;.der&lt;/span&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=left;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;rounded=1;shadow=0;glass=0;sketch=0;labelPosition=right;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
+          <mxGeometry x="387.13" y="308" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1rEJnnnodCpan0bJ0dBE-9" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.9) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; text-align: left ; background-color: rgba(0 , 0 , 0 , 0.06)&quot;&gt;&amp;lt;keyname&amp;gt;.pem&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;rounded=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
-          <mxGeometry x="509.38" y="630" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="387.13" y="628" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1rEJnnnodCpan0bJ0dBE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sZe8FNBouu0Gg12doHUx-1" source="1rEJnnnodCpan0bJ0dBE-11" target="1rEJnnnodCpan0bJ0dBE-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1rEJnnnodCpan0bJ0dBE-11" value="&lt;h1&gt;Convert to PEM format&lt;/h1&gt;&lt;pre class=&quot;hljs&quot; style=&quot;box-sizing: border-box ; overflow-x: auto ; padding: 15px ; color: rgba(0 , 0 , 0 , 0.9) ; margin-top: 0px ; margin-bottom: 16px ; font-size: 0.75rem ; overflow-wrap: normal ; border-radius: 2px&quot;&gt;&lt;code class=&quot;c++&quot; style=&quot;box-sizing: border-box ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: inherit ; background-color: transparent ; padding: 0px ; border-radius: 2px&quot;&gt;crx_tool /mode=createkey /key=my_new_component.der&lt;br&gt;openssl.exe pkey -inform DER -outform PEM -in my_new_component.der -out my_new_component.pem&lt;br&gt;&lt;span class=&quot;hljs-comment&quot; style=&quot;box-sizing: border-box ; color: rgba(, 1)&quot;&gt;// Install Azure CLI&lt;/span&gt;&lt;br&gt;az login&lt;br&gt;az keyvault secret &lt;span class=&quot;hljs-built_in&quot; style=&quot;box-sizing: border-box&quot;&gt;set&lt;/span&gt; --vault-name ComponentSigningKeys -n my_new_component-key-secret -f my_new_component.pem&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;shadow=0;sketch=0;glass=0;" vertex="1" parent="sZe8FNBouu0Gg12doHUx-1">
-          <mxGeometry x="146.25" y="410" width="773.75" height="150" as="geometry" />
+          <mxGeometry x="24" y="408" width="773.75" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
