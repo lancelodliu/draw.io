@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T07:41:16.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="LFcWv7kRJrcC60kAKL7j" version="15.5.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-18T07:42:04.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="dNofM5mDFkUlVHWFeI-M" version="15.5.4" type="github" pages="3">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="1374" dy="922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -216,7 +216,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qq5ibbnCGhS1M1pRpbVk" name="Code migration">
-    <mxGraphModel dx="948" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1374" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="QDc9LdpgYNUI8fUYREYU-0" />
         <mxCell id="QDc9LdpgYNUI8fUYREYU-1" parent="QDc9LdpgYNUI8fUYREYU-0" />
@@ -229,7 +229,7 @@
         <mxCell id="MSlTlb2QynzkavZNL3xy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QDc9LdpgYNUI8fUYREYU-1" source="MSlTlb2QynzkavZNL3xy-3" target="MSlTlb2QynzkavZNL3xy-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MSlTlb2QynzkavZNL3xy-3" value="src/wallet&lt;br&gt;monorepo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+        <mxCell id="MSlTlb2QynzkavZNL3xy-3" value="src/wallet/&lt;br&gt;&lt;b&gt;monorepo&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
           <mxGeometry x="260" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MSlTlb2QynzkavZNL3xy-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QDc9LdpgYNUI8fUYREYU-1" source="MSlTlb2QynzkavZNL3xy-4" target="MSlTlb2QynzkavZNL3xy-7">
@@ -238,7 +238,7 @@
         <mxCell id="MSlTlb2QynzkavZNL3xy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QDc9LdpgYNUI8fUYREYU-1" source="MSlTlb2QynzkavZNL3xy-4" target="MSlTlb2QynzkavZNL3xy-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MSlTlb2QynzkavZNL3xy-4" value="packages" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+        <mxCell id="MSlTlb2QynzkavZNL3xy-4" value="packages&lt;br&gt;workspaces" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
           <mxGeometry x="260" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MSlTlb2QynzkavZNL3xy-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QDc9LdpgYNUI8fUYREYU-1" source="MSlTlb2QynzkavZNL3xy-7" target="MSlTlb2QynzkavZNL3xy-14">
