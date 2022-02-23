@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T02:30:56.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="hWtce4zOBPpsquDfVzNX" version="16.5.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-23T02:33:51.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="t-zfAEl-AFk6R-ZELfFj" version="16.5.5" type="github" pages="3">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="1502" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qq5ibbnCGhS1M1pRpbVk" name="Code migration">
-    <mxGraphModel dx="2352" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1565" dy="398" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="QDc9LdpgYNUI8fUYREYU-0" />
         <mxCell id="QDc9LdpgYNUI8fUYREYU-1" parent="QDc9LdpgYNUI8fUYREYU-0" />
@@ -438,23 +438,20 @@
         <mxCell id="UC3YUQ0eqa_60EMgWXZD-18" value="XPay: src/wallet/packages&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;horizontal=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
           <mxGeometry x="-30" y="1149" width="630" height="411" as="geometry" />
         </mxCell>
-        <mxCell id="UC3YUQ0eqa_60EMgWXZD-21" value="apis" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
-          <mxGeometry x="-8" y="1184" width="285" height="30" as="geometry" />
+        <mxCell id="UC3YUQ0eqa_60EMgWXZD-24" value="@xpay-wallet/helpers" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="-15" y="1381" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UC3YUQ0eqa_60EMgWXZD-22" value="components" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
-          <mxGeometry x="-8" y="1275" width="285" height="30" as="geometry" />
+        <mxCell id="UC3YUQ0eqa_60EMgWXZD-31" value="@xpay-wallet/apis" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="-15" y="1171" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UC3YUQ0eqa_60EMgWXZD-24" value="design" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
-          <mxGeometry x="-15" y="1475" width="600" height="60" as="geometry" />
+        <mxCell id="UC3YUQ0eqa_60EMgWXZD-32" value="@xpay-wallet/shared-components" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="-15" y="1241" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UC3YUQ0eqa_60EMgWXZD-31" value="apis" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
-          <mxGeometry x="-15" y="1171" width="600" height="60" as="geometry" />
+        <mxCell id="UC3YUQ0eqa_60EMgWXZD-33" value="@xpay-wallet/hub" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="-15" y="1311" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UC3YUQ0eqa_60EMgWXZD-32" value="components" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
-          <mxGeometry x="-15" y="1272" width="600" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UC3YUQ0eqa_60EMgWXZD-33" value="fast-fork" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
-          <mxGeometry x="-15" y="1374" width="600" height="60" as="geometry" />
+        <mxCell id="UC3YUQ0eqa_60EMgWXZD-34" value="@xpay-wallet/constants" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="-15" y="1451" width="600" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
