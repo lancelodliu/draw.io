@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T02:48:36.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="d13AXArRxd_ltWluyIMW" version="16.5.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-23T02:49:36.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="VLlx-ui8sLQVz1bQiNOH" version="16.5.5" type="github" pages="3">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="1502" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qq5ibbnCGhS1M1pRpbVk" name="Code migration">
-    <mxGraphModel dx="1963" dy="619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="879" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="QDc9LdpgYNUI8fUYREYU-0" />
         <mxCell id="QDc9LdpgYNUI8fUYREYU-1" parent="QDc9LdpgYNUI8fUYREYU-0" />
@@ -446,7 +446,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UC3YUQ0eqa_60EMgWXZD-24" value="@xpay-wallet/helpers" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
-          <mxGeometry x="-12" y="1308.5" width="600" height="40" as="geometry" />
+          <mxGeometry x="-12" y="1325" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UC3YUQ0eqa_60EMgWXZD-48" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="QDc9LdpgYNUI8fUYREYU-1" source="UC3YUQ0eqa_60EMgWXZD-31" target="UC3YUQ0eqa_60EMgWXZD-7">
           <mxGeometry relative="1" as="geometry" />
@@ -487,7 +487,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UC3YUQ0eqa_60EMgWXZD-32" value="@xpay-wallet/shared-components" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
-          <mxGeometry x="-15" y="1391" width="600" height="40" as="geometry" />
+          <mxGeometry x="-15" y="1401" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UC3YUQ0eqa_60EMgWXZD-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="QDc9LdpgYNUI8fUYREYU-1" source="UC3YUQ0eqa_60EMgWXZD-33" target="UC3YUQ0eqa_60EMgWXZD-12">
           <mxGeometry relative="1" as="geometry" />
@@ -506,7 +506,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UC3YUQ0eqa_60EMgWXZD-34" value="@xpay-wallet/constants" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
-          <mxGeometry x="-12" y="1243" width="600" height="40" as="geometry" />
+          <mxGeometry x="-12" y="1248" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UC3YUQ0eqa_60EMgWXZD-45" value="Only hub related resources" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
           <mxGeometry x="1071.5" y="1367.75" width="154" height="18" as="geometry" />
