@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T07:54:09.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="whyg5n6QHl-VG_3zbfxQ" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-28T07:55:03.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="aKc-8VQGLD-NGD1zaase" version="16.6.4" type="github" pages="3">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="1502" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -524,10 +524,10 @@
         </mxCell>
         <mxCell id="Q3zYspSlludntkUKryjR-26" value="Package not installed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q3zYspSlludntkUKryjR-22">
           <mxGeometry x="-0.2272" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" y="34" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q3zYspSlludntkUKryjR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.985;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QDc9LdpgYNUI8fUYREYU-1" source="Q3zYspSlludntkUKryjR-4" target="Q3zYspSlludntkUKryjR-14">
+        <mxCell id="Q3zYspSlludntkUKryjR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.985;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QDc9LdpgYNUI8fUYREYU-1" source="Q3zYspSlludntkUKryjR-4" target="Q3zYspSlludntkUKryjR-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q3zYspSlludntkUKryjR-28" value="Package installed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q3zYspSlludntkUKryjR-27">
@@ -576,8 +576,34 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q3zYspSlludntkUKryjR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QDc9LdpgYNUI8fUYREYU-1" source="Q3zYspSlludntkUKryjR-23" target="Q3zYspSlludntkUKryjR-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3zYspSlludntkUKryjR-36" value="Not under pilot" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q3zYspSlludntkUKryjR-35">
+          <mxGeometry x="0.6162" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q3zYspSlludntkUKryjR-23" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
           <mxGeometry x="1449" y="83" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3zYspSlludntkUKryjR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QDc9LdpgYNUI8fUYREYU-1" source="Q3zYspSlludntkUKryjR-29" target="Q3zYspSlludntkUKryjR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3zYspSlludntkUKryjR-29" value="Web UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="1505" y="283" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3zYspSlludntkUKryjR-30" value="" style="group" vertex="1" connectable="0" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="1490" y="472" width="132.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3zYspSlludntkUKryjR-31" value="wallet.html" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;rounded=1;shadow=0;glass=0;sketch=0;labelPosition=center;" vertex="1" parent="Q3zYspSlludntkUKryjR-30">
+          <mxGeometry width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3zYspSlludntkUKryjR-32" value="wallet.bundle.js" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontSize=12;fontColor=#000000;startSize=30;" vertex="1" parent="Q3zYspSlludntkUKryjR-30">
+          <mxGeometry x="85" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3zYspSlludntkUKryjR-33" value="edge_common/dist/" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="1507.5" y="441" width="115" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
