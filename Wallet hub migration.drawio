@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T01:36:14.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="8NjhPDVWpaor-IH3knxH" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-02T01:38:10.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="xAQVIk1Lyz2s5cbkvVvo" version="16.6.4" type="github" pages="3">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="1252" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -145,6 +145,14 @@
         <mxCell id="-YXRxVDKPvslBnNjFw6--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-YXRxVDKPvslBnNjFw6--8" target="-YXRxVDKPvslBnNjFw6--26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-YXRxVDKPvslBnNjFw6--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="-YXRxVDKPvslBnNjFw6--8" target="-YXRxVDKPvslBnNjFw6--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YXRxVDKPvslBnNjFw6--32" value="Old version of" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-YXRxVDKPvslBnNjFw6--31">
+          <mxGeometry x="-0.0973" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-YXRxVDKPvslBnNjFw6--8" value="fallback version&lt;br&gt;outdate UI&lt;br&gt;outdate functions&lt;br&gt;Update monthly on every release" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1443.5" y="401" width="142" height="74" as="geometry" />
         </mxCell>
@@ -152,7 +160,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-YXRxVDKPvslBnNjFw6--11" value="main version&lt;br&gt;all UI/functions&lt;br&gt;Update weekly/daily" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="401" width="142" height="74" as="geometry" />
+          <mxGeometry x="1185" y="401" width="142" height="73" as="geometry" />
         </mxCell>
         <mxCell id="-YXRxVDKPvslBnNjFw6--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-YXRxVDKPvslBnNjFw6--13" target="-YXRxVDKPvslBnNjFw6--1">
           <mxGeometry relative="1" as="geometry">
