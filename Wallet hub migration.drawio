@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T13:19:05.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="JDx6RwiWuBKnf34RbMCP" version="17.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-14T13:22:45.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="7Qzk5RfqMW8DEnHIS2Jc" version="17.1.0" type="github" pages="3">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="968" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -733,11 +733,29 @@
         <mxCell id="gMC_XNgayp-92sDLe61x-2" value="edge://wallet" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="gMC_XNgayp-92sDLe61x-0">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gMC_XNgayp-92sDLe61x-3" value="Wallet component&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;Version &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;101.0.0.1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Need FeatureA&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
-          <mxGeometry x="2777" y="457" width="138" height="72" as="geometry" />
+        <mxCell id="gMC_XNgayp-92sDLe61x-3" value="Wallet component&lt;br&gt;&lt;div style=&quot;&quot;&gt;Version &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;101.0.0.1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Need FeatureA&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;align=center;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="2777" y="359" width="138" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="gMC_XNgayp-92sDLe61x-5" value="1. FeatureA can be enabled only to user of&amp;nbsp;corresponding major version.&lt;br style=&quot;font-size: 16px&quot;&gt;So if an user is under FeatureA pilot, we can call native API safely.&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;2. FeatureA has some API params/retval changes in next release.&lt;br style=&quot;font-size: 16px&quot;&gt;We must forbid direct change to the original API. Create a new one instead." style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;fontSize=16;fontStyle=0" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
-          <mxGeometry x="3028" y="102" width="544" height="99" as="geometry" />
+        <mxCell id="gMC_XNgayp-92sDLe61x-5" value="1. FeatureA can be enabled only to user of&amp;nbsp;corresponding major version.&lt;br style=&quot;font-size: 16px&quot;&gt;So if an user is under FeatureA pilot, we can call native API safely.&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;2. FeatureA has some API params/retval changes in next release.&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;We must forbid direct change to the original API. Create a new one instead.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;fontSize=16;fontStyle=0" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="3044" y="222" width="580" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="gMC_XNgayp-92sDLe61x-6" value="New version Edge: like 101&lt;br&gt;w FeatureA" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="2696" y="496" width="300" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="gMC_XNgayp-92sDLe61x-7" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="gMC_XNgayp-92sDLe61x-6">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gMC_XNgayp-92sDLe61x-8" value="edge://wallet" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="gMC_XNgayp-92sDLe61x-6">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gMC_XNgayp-92sDLe61x-9" value="Wallet component&lt;br&gt;&lt;div style=&quot;&quot;&gt;Version &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;100.0.0.1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Don&#39;t know FeatureA&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;align=center;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="2777" y="753" width="138" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="gMC_XNgayp-92sDLe61x-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;shape=link;" edge="1" source="gMC_XNgayp-92sDLe61x-6" target="gMC_XNgayp-92sDLe61x-9" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMC_XNgayp-92sDLe61x-11" value="1. Component will get updated finally, so this state won&#39;t last for long.&lt;br&gt;Only happens in a few users.&lt;br&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;2. We must forbid direct change to the original API.&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;fontSize=16;fontStyle=0" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="3036" y="558" width="497" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
