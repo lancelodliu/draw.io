@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T13:14:15.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="gqYNpOi5zd8zGIyw5Fz1" version="17.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-14T13:19:05.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="JDx6RwiWuBKnf34RbMCP" version="17.1.0" type="github" pages="3">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="968" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qq5ibbnCGhS1M1pRpbVk" name="Code migration">
-    <mxGraphModel dx="1818" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2352" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="QDc9LdpgYNUI8fUYREYU-0" />
         <mxCell id="QDc9LdpgYNUI8fUYREYU-1" parent="QDc9LdpgYNUI8fUYREYU-0" />
@@ -735,6 +735,9 @@
         </mxCell>
         <mxCell id="gMC_XNgayp-92sDLe61x-3" value="Wallet component&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;Version &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;101.0.0.1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Need FeatureA&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
           <mxGeometry x="2777" y="457" width="138" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="gMC_XNgayp-92sDLe61x-5" value="1. FeatureA can be enabled only to user of&amp;nbsp;corresponding major version.&lt;br style=&quot;font-size: 16px&quot;&gt;So if an user is under FeatureA pilot, we can call native API safely.&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;2. FeatureA has some API params/retval changes in next release.&lt;br style=&quot;font-size: 16px&quot;&gt;We must forbid direct change to the original API. Create a new one instead." style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;fontSize=16;fontStyle=0" vertex="1" parent="QDc9LdpgYNUI8fUYREYU-1">
+          <mxGeometry x="3028" y="102" width="544" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
