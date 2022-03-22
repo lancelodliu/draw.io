@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T02:47:17.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="1ylDKniSRoakFohjMuHM" version="17.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-22T02:48:23.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="kXAMrBp44v0pNu-4OGfG" version="17.1.3" type="github" pages="3">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="236" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
         <mxCell id="UyeiL8N9RnHxWSmCM4lH-55" value="Component ver. == Edge ver.?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3166" y="362" width="245" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UyeiL8N9RnHxWSmCM4lH-57" value="MATCH_VERSION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UyeiL8N9RnHxWSmCM4lH-57" value="MATCH_VERSION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="3477" y="372" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UyeiL8N9RnHxWSmCM4lH-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UyeiL8N9RnHxWSmCM4lH-59" target="UyeiL8N9RnHxWSmCM4lH-61">
@@ -221,10 +221,10 @@
         <mxCell id="UyeiL8N9RnHxWSmCM4lH-59" value="Component ver. &amp;gt; Edge ver.?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3166" y="501" width="245" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UyeiL8N9RnHxWSmCM4lH-61" value="OutdatedNative" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UyeiL8N9RnHxWSmCM4lH-61" value="OutdatedNative" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3477" y="511" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UyeiL8N9RnHxWSmCM4lH-64" value="OutdatedComponent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UyeiL8N9RnHxWSmCM4lH-64" value="OutdatedComponent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3228.5" y="618" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UyeiL8N9RnHxWSmCM4lH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UyeiL8N9RnHxWSmCM4lH-69" target="UyeiL8N9RnHxWSmCM4lH-84">
@@ -247,7 +247,7 @@
         <mxCell id="UyeiL8N9RnHxWSmCM4lH-72" value="Component folder exist?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2671.5" y="362" width="245" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UyeiL8N9RnHxWSmCM4lH-74" value="MISSING_COMPONENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UyeiL8N9RnHxWSmCM4lH-74" value="MISSING_COMPONENT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2965" y="372" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UyeiL8N9RnHxWSmCM4lH-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UyeiL8N9RnHxWSmCM4lH-77" target="UyeiL8N9RnHxWSmCM4lH-69">
@@ -269,10 +269,10 @@
         <mxCell id="UyeiL8N9RnHxWSmCM4lH-77" value="Component file complete?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2671.5" y="486" width="245" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UyeiL8N9RnHxWSmCM4lH-80" value="MISSING_FILE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UyeiL8N9RnHxWSmCM4lH-80" value="MISSING_FILE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2960" y="496" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UyeiL8N9RnHxWSmCM4lH-84" value="SUCCESS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UyeiL8N9RnHxWSmCM4lH-84" value="SUCCESS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2960" y="618" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
