@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T02:30:51.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="M0_ngFSByJOecn5TWERm" version="17.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-22T02:31:56.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="FNCc-tY4JjALZt_2ehIu" version="17.1.3" type="github" pages="3">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="402" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
             <mxPoint x="2794" y="262" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UyeiL8N9RnHxWSmCM4lH-39" value="Browser start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UyeiL8N9RnHxWSmCM4lH-39" value="Browser start&lt;br&gt;Component update" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2734" y="134" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UyeiL8N9RnHxWSmCM4lH-49" value="CUS Process" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
@@ -217,6 +217,15 @@
         </mxCell>
         <mxCell id="UyeiL8N9RnHxWSmCM4lH-64" value="OutdatedComponent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2734" y="624" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UyeiL8N9RnHxWSmCM4lH-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UyeiL8N9RnHxWSmCM4lH-66" target="UyeiL8N9RnHxWSmCM4lH-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UyeiL8N9RnHxWSmCM4lH-66" value="Component update" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3269.25" y="134" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UyeiL8N9RnHxWSmCM4lH-67" value="EdgeWalletComponentInstallerPolicy::ComponentReady" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3177" y="255" width="304.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
