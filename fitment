@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T12:20:36.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="NDRL-EHSGDyhujq46WMZ" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-30T12:31:14.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="lksKzDfKqWYp--iJPsvf" version="18.1.1" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
     <mxGraphModel dx="1767" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,6 +76,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqgtIBPhpqhtbyn6h5gW-11" target="mqgtIBPhpqhtbyn6h5gW-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mqgtIBPhpqhtbyn6h5gW-11" value="铺砖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -119,13 +122,16 @@
           <mxGeometry x="70" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mqgtIBPhpqhtbyn6h5gW-34" value="大家电采购、预定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="257" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mqgtIBPhpqhtbyn6h5gW-35" value="马桶、窗帘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="554" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mqgtIBPhpqhtbyn6h5gW-36" value="餐桌、椅子、沙发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-37" value="踢脚线、门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
