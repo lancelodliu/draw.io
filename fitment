@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T12:33:26.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="6D7A2vi8XcqsiC-c3W5V" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-30T12:34:00.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="PZS9kUT9q0WVHUz2YTtl" version="18.1.1" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
     <mxGraphModel dx="1767" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="mqgtIBPhpqhtbyn6h5gW-36" value="餐桌、椅子、沙发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="586" y="741" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mqgtIBPhpqhtbyn6h5gW-37" value="踢脚线、门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-37" value="踢脚线、门&lt;br&gt;&lt;font color=&quot;#ff8000&quot;&gt;主卫门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
