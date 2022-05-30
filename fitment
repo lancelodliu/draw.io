@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T12:16:58.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="K7qD8ucqDrEGF4oIbGxQ" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-30T12:19:40.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="zJiGqUZhrlD4g4kFsxlO" version="18.1.1" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="1252" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1767" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,10 +68,10 @@
         <mxCell id="mqgtIBPhpqhtbyn6h5gW-7" value="拆阳台门&lt;br&gt;拆踢脚线&lt;br&gt;拆房间门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mqgtIBPhpqhtbyn6h5gW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqgtIBPhpqhtbyn6h5gW-11" target="mqgtIBPhpqhtbyn6h5gW-19">
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqgtIBPhpqhtbyn6h5gW-11" target="mqgtIBPhpqhtbyn6h5gW-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqgtIBPhpqhtbyn6h5gW-21" value="5D" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mqgtIBPhpqhtbyn6h5gW-20">
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-21" value="5D+7D" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mqgtIBPhpqhtbyn6h5gW-20">
           <mxGeometry x="-0.255" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -93,8 +93,39 @@
         <mxCell id="mqgtIBPhpqhtbyn6h5gW-16" value="封阳台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqgtIBPhpqhtbyn6h5gW-19" target="mqgtIBPhpqhtbyn6h5gW-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-28" value="30D" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mqgtIBPhpqhtbyn6h5gW-27">
+          <mxGeometry x="-0.008" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mqgtIBPhpqhtbyn6h5gW-19" value="柜子量尺、下定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-26" value="橱柜安装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqgtIBPhpqhtbyn6h5gW-29" target="mqgtIBPhpqhtbyn6h5gW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-33" value="4D" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mqgtIBPhpqhtbyn6h5gW-30">
+          <mxGeometry x="-0.2022" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-29" value="美缝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-34" value="大家电采购、预定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-35" value="马桶、窗帘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqgtIBPhpqhtbyn6h5gW-36" value="餐桌、椅子、沙发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
