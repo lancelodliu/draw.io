@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T14:56:16.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="--7DAP_7d61lzOrztzUg" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T15:00:22.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="B94uicBvEeWibwy_G7Su" version="19.0.0" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="1155" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="448" dy="249" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,6 +376,18 @@
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-105" value="地漏&lt;br&gt;离南侧75公分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1532" y="513" width="108" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-108" value="书房-俯视图" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1168" width="181" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="47" y="1281" width="215" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-111" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FFFFFF;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1444" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-112" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FF8000;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="168" y="1422" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
