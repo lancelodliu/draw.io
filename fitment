@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T13:45:08.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="5jmVmz-xcJaLijyUDz-P" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T13:46:08.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="NFpNUDVPxFzh0ecb8bx3" version="19.0.0" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="2731" dy="1518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1669" dy="928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,8 +152,8 @@
         <mxCell id="cKWSy-kXCy6K_Ocarlbm-1" value="水电半改：电视柜高度&lt;br&gt;增加网线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="52" y="210" width="156" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-2" value="阳台西侧" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="952" y="149" width="138" height="42" as="geometry" />
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-2" value="阳台西侧 - 总体" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="906" y="149" width="230" height="42" as="geometry" />
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-3" value="阳台东侧" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="960" y="1142" width="138" height="42" as="geometry" />
@@ -310,6 +310,24 @@
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-69" value="30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="922" y="449.5" width="28" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-70" value="阳台西侧 - 电" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="1313" y="149" width="198" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1353" y="295" width="155" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-72" value="顶" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1421" y="210" width="34" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-73" value="南" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1297" y="380" width="34" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-74" value="265" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="385" width="37" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-75" value="155" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1419" y="560" width="37" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
