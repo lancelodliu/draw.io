@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T13:43:15.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="tNKHcQu4gGHnnnAdaYUn" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T13:43:39.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="73tYHfjf8V4W4dN_V511" version="19.0.0" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="501" dy="278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="715" dy="398" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,6 +307,9 @@
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-67" value="两扇门对开" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="979" y="303.5" width="90" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-69" value="30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="922" y="449.5" width="28" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
