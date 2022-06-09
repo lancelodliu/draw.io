@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T13:50:38.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="GOlC1By8-D9zUrgKbGGY" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T13:55:06.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="BH7Q7GK3p9DbQUYxFUKE" version="19.0.0" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="668" dy="371" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1155" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -334,6 +334,26 @@
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-77" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img30.360buyimg.com/sku/jfs/t1/107886/25/15483/122603/628dd850E5e26ce27/3ef8250c712745d6.jpg;" vertex="1" parent="1">
           <mxGeometry x="1034" y="594" width="212.06" height="267" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-80" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="480" width="23.5" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-83" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;strokeColor=#000000;strokeWidth=2;dashed=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aFvpt8S3Wu-CkxbxYAcH-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1392" y="550" as="sourcePoint" />
+            <mxPoint x="1392" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-84" value="50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="aFvpt8S3Wu-CkxbxYAcH-83">
+          <mxGeometry x="0.382" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;fontSize=16;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="aFvpt8S3Wu-CkxbxYAcH-88" target="aFvpt8S3Wu-CkxbxYAcH-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-88" value="做门&lt;br&gt;底部留20公分机器人进出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="837" y="590" width="188" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
