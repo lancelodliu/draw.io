@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T14:04:13.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="K4ZRbiauTYY-nXauemeg" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T14:05:36.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="H3a0L7oRRwxeowlvBRpf" version="19.0.0" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="668" dy="371" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1155" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,14 +362,14 @@
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-97" value="高度85&lt;br&gt;离墙20公分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1511" y="445" width="92" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-98" value="" style="shape=mxgraph.signs.food.drinking_water_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1439" y="476" width="24.82" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=16;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="aFvpt8S3Wu-CkxbxYAcH-99" target="aFvpt8S3Wu-CkxbxYAcH-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-99" value="高度120&lt;br&gt;离墙45公分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1226" y="423" width="92" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-101" value="少洗衣机/烘干机上下水" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1343" y="333" width="174" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
