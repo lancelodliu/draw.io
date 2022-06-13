@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T15:15:39.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="70MWABWjdYQGVx_7kTZn" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T15:16:58.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="cktjOSLT5Z6uFfkfV16_" version="19.0.3" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="401" dy="223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1001" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -416,7 +416,7 @@
           <mxGeometry x="1780" y="141" width="149" height="42" as="geometry" />
         </mxCell>
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1735" y="310.5" width="769" height="267" as="geometry" />
+          <mxGeometry x="1735" y="310.5" width="735" height="267" as="geometry" />
         </mxCell>
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-4" value="5孔" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1996" y="489.25" width="23.5" height="23.5" as="geometry" />
@@ -466,6 +466,12 @@
           <mxGeometry x="0.3728" relative="1" as="geometry">
             <mxPoint y="13" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-19" value="3.4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2057" y="578" width="32" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-22" value="居中放置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2036" y="375" width="74" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
