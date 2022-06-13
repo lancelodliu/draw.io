@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T15:17:37.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="brgxv-JkybpyD7i95hgu" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T15:21:53.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="QjgUZrlUKZurXX6Oc5lv" version="19.0.3" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="1001" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -441,12 +441,6 @@
             <mxPoint y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQ27PzdxxvBjPdE7MwTL-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.33;exitY=0.743;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.549;entryY=0.743;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sQ27PzdxxvBjPdE7MwTL-3" target="sQ27PzdxxvBjPdE7MwTL-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2012" y="393.5" as="sourcePoint" />
-            <mxPoint x="2148" y="393.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-12" value="网口" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2172" y="373.25" width="35" height="24" as="geometry" />
         </mxCell>
@@ -475,6 +469,32 @@
         </mxCell>
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-23" value="累计需要4个5孔，1个网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1913" y="144.5" width="197" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-24" value="餐边柜-电" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="508" width="149" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="568" width="735" height="267" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-26" value="累计需要4个5孔，1个网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1913" y="517.5" width="197" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-27" value="5孔" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2009" y="703" width="23.5" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-28" value="5孔" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2177.75" y="701" width="23.5" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-29" value="" style="endArrow=blockThin;html=1;rounded=0;snapToPoint=1;ignoreEdge=0;endFill=1;startArrow=blockThin;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2020" y="833" as="sourcePoint" />
+            <mxPoint x="2020.27" y="754" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-30" value="120cm" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sQ27PzdxxvBjPdE7MwTL-29">
+          <mxGeometry x="0.3728" relative="1" as="geometry">
+            <mxPoint y="13" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
