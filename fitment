@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T15:21:53.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="QjgUZrlUKZurXX6Oc5lv" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T15:22:00.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="OLfdKuKfYabYNiqtYvhs" version="19.0.3" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
     <mxGraphModel dx="834" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -476,8 +476,8 @@
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1745" y="568" width="735" height="267" as="geometry" />
         </mxCell>
-        <mxCell id="sQ27PzdxxvBjPdE7MwTL-26" value="累计需要4个5孔，1个网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1913" y="517.5" width="197" height="23" as="geometry" />
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-26" value="累计需要2个5孔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="517.5" width="124" height="23" as="geometry" />
         </mxCell>
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-27" value="5孔" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2009" y="703" width="23.5" height="23.5" as="geometry" />
