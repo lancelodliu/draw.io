@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T15:28:30.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="K5KldXoLOxXWwCy0IYMO" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T15:29:12.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="hal20QrqH08iKAcpHXg1" version="19.0.3" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
     <mxGraphModel dx="1073" dy="596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -467,8 +467,8 @@
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-22" value="居中放置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2046" y="259.5" width="74" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="sQ27PzdxxvBjPdE7MwTL-23" value="累计需要4个5孔，1个网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1913" y="144.5" width="197" height="23" as="geometry" />
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-23" value="4个5孔，1个网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1945" y="144.5" width="133" height="23" as="geometry" />
         </mxCell>
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-24" value="餐边柜-电" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="1745" y="508" width="149" height="42" as="geometry" />
@@ -476,8 +476,8 @@
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1745" y="568" width="735" height="267" as="geometry" />
         </mxCell>
-        <mxCell id="sQ27PzdxxvBjPdE7MwTL-26" value="累计需要2个5孔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="517.5" width="124" height="23" as="geometry" />
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-26" value="2个5孔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1982" y="517.5" width="60" height="23" as="geometry" />
         </mxCell>
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-27" value="5孔" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2009" y="703" width="23.5" height="23.5" as="geometry" />
@@ -502,14 +502,14 @@
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1745" y="927" width="735" height="267" as="geometry" />
         </mxCell>
-        <mxCell id="sQ27PzdxxvBjPdE7MwTL-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2091" y="893" as="sourcePoint" />
-            <mxPoint x="2008" y="893" as="targetPoint" />
+            <mxPoint x="2480" y="904" as="sourcePoint" />
+            <mxPoint x="2397" y="904" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQ27PzdxxvBjPdE7MwTL-34" value="南" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1982" y="882" width="26" height="23" as="geometry" />
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-34" value="南" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2371" y="893" width="26" height="23" as="geometry" />
         </mxCell>
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -542,6 +542,9 @@
         </mxCell>
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-43" value="网口" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2302" y="1079" width="35" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-45" value="3个5孔，1个网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1976" y="876.5" width="133" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
