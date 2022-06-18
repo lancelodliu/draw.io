@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T11:47:36.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="6L5Z4Xsf5D4P_Mi4Y5Sd" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T11:50:28.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="4D-HjimYiKuinXDPSCmF" version="20.0.1" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
     <mxGraphModel dx="1976" dy="1676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1287,7 +1287,7 @@
         <mxCell id="f1CVza7apfxe1nxzbQIp-1439" value="235" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="82" y="1301" width="30" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="f1CVza7apfxe1nxzbQIp-1440" value="上开柜门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f1CVza7apfxe1nxzbQIp-1440" value="下翻柜门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="158" y="1390" width="250" height="25" as="geometry" />
         </mxCell>
         <mxCell id="f1CVza7apfxe1nxzbQIp-1443" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
