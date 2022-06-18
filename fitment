@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T03:27:25.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="lRlwNPXb0oYfAZjZcxgO" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T03:36:08.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="8Qq0U8dRUaZRHO_51xji" version="20.0.1" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="2156" dy="1826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1923" dy="1696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -302,15 +302,6 @@
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-103" value="高度190&lt;br&gt;离墙20公分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
           <mxGeometry x="720.5" y="1264" width="92" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-104" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.water_cooler;fontSize=16;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
-          <mxGeometry x="632.75" y="1460" width="26" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.028;entryY=0.473;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=16;strokeColor=#000000;strokeWidth=2;" parent="FyN_mbrguhy1R9PT6vkj-22" source="aFvpt8S3Wu-CkxbxYAcH-105" target="aFvpt8S3Wu-CkxbxYAcH-104" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-105" value="地漏&lt;br&gt;离南侧75公分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
-          <mxGeometry x="403" y="1452" width="108" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-108" value="书房-俯视图" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
           <mxGeometry x="1029" y="652.03" width="181" height="42" as="geometry" />
         </mxCell>
@@ -480,8 +471,8 @@
         <mxCell id="sQ27PzdxxvBjPdE7MwTL-45" value="3个5孔，1个网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
           <mxGeometry x="394" y="644.5" width="133" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="sQ27PzdxxvBjPdE7MwTL-46" value="2个5孔，1个地漏三通" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
-          <mxGeometry x="682" y="1146" width="165" height="23" as="geometry" />
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-46" value="2个5孔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
+          <mxGeometry x="735" y="1146" width="60" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Qi4J0k9g7kEpRZWCp371-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;玄关柜 2.35*1.45 = 3.4&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#ff9999&quot;&gt;2个5孔&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
           <mxGeometry x="1086" y="1087" width="342" height="80" as="geometry" />
@@ -1015,6 +1006,12 @@
             <mxPoint x="1302" y="1698" as="sourcePoint" />
             <mxPoint x="1302.1499999999992" y="1569" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f1CVza7apfxe1nxzbQIp-583" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;imageBackground=#FF9999;" vertex="1" parent="FyN_mbrguhy1R9PT6vkj-22">
+          <mxGeometry x="213.25" y="1417.62" width="18.75" height="18.75" as="geometry" />
+        </mxCell>
+        <mxCell id="f1CVza7apfxe1nxzbQIp-584" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;imageBackground=#FF9999;direction=west;" vertex="1" parent="FyN_mbrguhy1R9PT6vkj-22">
+          <mxGeometry x="282.25" y="1309.75" width="18.75" height="18.75" as="geometry" />
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-3" value="阳台东侧" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="-731" y="1199" width="138" height="42" as="geometry" />
