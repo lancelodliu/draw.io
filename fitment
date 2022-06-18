@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T03:14:41.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="rnaJcrVMNtjJJRrRY48m" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T03:24:11.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="u6wvku_t4KD_6XT10Uvy" version="20.0.1" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="1819" dy="1639" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1789" dy="1622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -543,12 +543,12 @@
             <mxPoint x="1578" y="1465.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qi4J0k9g7kEpRZWCp371-19" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fontSize=20;entryX=0.739;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" parent="FyN_mbrguhy1R9PT6vkj-22" target="Qi4J0k9g7kEpRZWCp371-5" edge="1">
+        <mxCell id="Qi4J0k9g7kEpRZWCp371-19" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fontSize=20;" parent="FyN_mbrguhy1R9PT6vkj-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1303" y="1568.5" as="sourcePoint" />
-            <mxPoint x="1293" y="1735.9999999999998" as="targetPoint" />
+            <mxPoint x="1301" y="1701" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1215" y="1661.5" />
+              <mxPoint x="1215" y="1633" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -558,10 +558,7 @@
             <mxPoint x="1212.23" y="1568.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qi4J0k9g7kEpRZWCp371-24" value="分水器&lt;br style=&quot;font-size: 16px;&quot;&gt;高度不能超过85" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=16;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
-          <mxGeometry x="1260" y="1650.5" width="124" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi4J0k9g7kEpRZWCp371-25" value="5孔&lt;br&gt;离地115&lt;br&gt;离北10" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;fontColor=#FF9999;imageBackground=#FF9999;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
+        <mxCell id="Qi4J0k9g7kEpRZWCp371-25" value="5孔&lt;br style=&quot;font-size: 12px;&quot;&gt;离地115&lt;br style=&quot;font-size: 12px;&quot;&gt;离北10" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=12;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;fontColor=#FF9999;imageBackground=#FF9999;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
           <mxGeometry x="1340" y="1503.75" width="23.5" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="Qi4J0k9g7kEpRZWCp371-26" value="100cm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
@@ -569,9 +566,6 @@
         </mxCell>
         <mxCell id="Qi4J0k9g7kEpRZWCp371-27" value="45cm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
           <mxGeometry x="1134" y="1750.5" width="59" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi4J0k9g7kEpRZWCp371-30" value="5孔&lt;br&gt;离地45&lt;br&gt;离南55" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;imageBackground=#FF9999;fontColor=#FF9999;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
-          <mxGeometry x="1233" y="1662" width="23.5" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="Qi4J0k9g7kEpRZWCp371-32" value="70cm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
           <mxGeometry x="1055" y="1646.5" width="59" height="28" as="geometry" />
@@ -621,15 +615,6 @@
             <mxPoint x="1293.7976000000003" y="1465.759" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1216.4" y="1351.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qi4J0k9g7kEpRZWCp371-49" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fontSize=20;entryX=0.758;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="FyN_mbrguhy1R9PT6vkj-22" target="Qi4J0k9g7kEpRZWCp371-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="1572.5" as="sourcePoint" />
-            <mxPoint x="1296" y="1740" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1382" y="1660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1000,6 +985,24 @@
         </mxCell>
         <mxCell id="f1CVza7apfxe1nxzbQIp-569" value="5孔&lt;br&gt;离地125&lt;br&gt;离南墙185" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;imageBackground=#FF9999;fontColor=#FF9999;" vertex="1" parent="FyN_mbrguhy1R9PT6vkj-22">
           <mxGeometry x="2519" y="1481" width="23.5" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="f1CVza7apfxe1nxzbQIp-575" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;分水器&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;高度不能超过85&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=16;fontColor=#FF9999;strokeColor=#FF9999;strokeWidth=3;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="FyN_mbrguhy1R9PT6vkj-22">
+          <mxGeometry x="1283" y="1629.5" width="96" height="101.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi4J0k9g7kEpRZWCp371-49" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fontSize=20;" parent="FyN_mbrguhy1R9PT6vkj-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1310" y="1572.5" as="sourcePoint" />
+            <mxPoint x="1305" y="1699" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1382" y="1627" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1CVza7apfxe1nxzbQIp-578" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=16;fontColor=#FF9999;strokeColor=#FFFFFF;strokeWidth=3;fillColor=default;" vertex="1" parent="FyN_mbrguhy1R9PT6vkj-22">
+          <mxGeometry x="1214" y="1742" width="169" height="11.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi4J0k9g7kEpRZWCp371-30" value="5孔&lt;br style=&quot;font-size: 11px;&quot;&gt;离地45&lt;br style=&quot;font-size: 11px;&quot;&gt;离南55" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=11;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;imageBackground=#FF9999;fontColor=#FF9999;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
+          <mxGeometry x="1233" y="1662" width="23.5" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-3" value="阳台东侧" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="-731" y="1199" width="138" height="42" as="geometry" />
