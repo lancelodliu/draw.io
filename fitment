@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T03:41:06.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="OGNgywviQDKp3WtWnVBz" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T03:46:50.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="Jiltcg1XrM3LuXPK95QW" version="20.0.1" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="1923" dy="1696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2215" dy="1859" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FyN_mbrguhy1R9PT6vkj-22" value="" style="group;align=left;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="805" y="26" width="3955" height="3650" as="geometry" />
+          <mxGeometry x="902" y="40" width="3955" height="3650" as="geometry" />
         </mxCell>
         <mxCell id="f1CVza7apfxe1nxzbQIp-285" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=36;fontColor=#FF0000;" vertex="1" parent="FyN_mbrguhy1R9PT6vkj-22">
           <mxGeometry x="1948" y="1197.5" width="840" height="705" as="geometry" />
@@ -1021,6 +1021,12 @@
         </mxCell>
         <mxCell id="f1CVza7apfxe1nxzbQIp-586" value="洗衣机抬高架&lt;br&gt;10cm左右" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#FF9999;" vertex="1" parent="FyN_mbrguhy1R9PT6vkj-22">
           <mxGeometry x="295" y="1504.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="f1CVza7apfxe1nxzbQIp-588" value="深度：65" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#FF9999;" vertex="1" parent="FyN_mbrguhy1R9PT6vkj-22">
+          <mxGeometry x="65.5" y="1186" width="59" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="f1CVza7apfxe1nxzbQIp-590" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;" vertex="1" parent="FyN_mbrguhy1R9PT6vkj-22">
+          <mxGeometry x="148" y="1813" width="155" height="260" as="geometry" />
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-3" value="阳台东侧" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="-731" y="1199" width="138" height="42" as="geometry" />
