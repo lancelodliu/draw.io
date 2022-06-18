@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T03:10:32.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="KUvNPwbJqgOZTd9nVsQC" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T03:14:41.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="rnaJcrVMNtjJJRrRY48m" version="20.0.1" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="2617" dy="2082" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1819" dy="1639" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -558,11 +558,11 @@
             <mxPoint x="1212.23" y="1568.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qi4J0k9g7kEpRZWCp371-24" value="分水器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
-          <mxGeometry x="1303" y="1668.5" width="70" height="28" as="geometry" />
+        <mxCell id="Qi4J0k9g7kEpRZWCp371-24" value="分水器&lt;br style=&quot;font-size: 16px;&quot;&gt;高度不能超过85" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=16;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
+          <mxGeometry x="1260" y="1650.5" width="124" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Qi4J0k9g7kEpRZWCp371-25" value="5孔&lt;br&gt;离地115&lt;br&gt;离北10" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;fontColor=#FF9999;imageBackground=#FF9999;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
-          <mxGeometry x="1356.6" y="1507.5" width="23.5" height="23.5" as="geometry" />
+          <mxGeometry x="1340" y="1503.75" width="23.5" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="Qi4J0k9g7kEpRZWCp371-26" value="100cm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
           <mxGeometry x="1264" y="1750.5" width="70" height="28" as="geometry" />
