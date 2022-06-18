@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T05:26:43.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="74Bvp3HB4t2ZUBUqVrOt" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T11:47:36.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="6L5Z4Xsf5D4P_Mi4Y5Sd" version="20.0.1" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="1627" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1976" dy="1676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="894" y="36" width="3955" height="3650" as="geometry" />
         </mxCell>
         <mxCell id="f1CVza7apfxe1nxzbQIp-285" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=36;fontColor=#FF0000;" vertex="1" parent="FyN_mbrguhy1R9PT6vkj-22">
-          <mxGeometry x="1948" y="1197.5" width="840" height="705" as="geometry" />
+          <mxGeometry x="1950" y="1197" width="840" height="705" as="geometry" />
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
           <mxGeometry x="146" y="1223" width="155" height="260" as="geometry" />
@@ -284,8 +284,8 @@
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=16;strokeColor=#000000;strokeWidth=2;" parent="FyN_mbrguhy1R9PT6vkj-22" source="aFvpt8S3Wu-CkxbxYAcH-92" target="aFvpt8S3Wu-CkxbxYAcH-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-92" value="高度60&lt;br&gt;离南侧75公分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
-          <mxGeometry x="403" y="1408.75" width="108" height="42" as="geometry" />
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-92" value="高度60&lt;br&gt;离南侧60-90公分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
+          <mxGeometry x="392" y="1408.75" width="131" height="42" as="geometry" />
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-96" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;rotation=-180;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
           <mxGeometry x="679.5" y="1277.5" width="23.5" height="23.5" as="geometry" />
@@ -1194,8 +1194,8 @@
             <mxPoint y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQ27PzdxxvBjPdE7MwTL-2" value="电视墙-电" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" parent="FyN_mbrguhy1R9PT6vkj-22" vertex="1">
-          <mxGeometry x="543" y="55" width="149" height="42" as="geometry" />
+        <mxCell id="f1CVza7apfxe1nxzbQIp-1769" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;fontSize=16;strokeColor=#00FFFF;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="FyN_mbrguhy1R9PT6vkj-22">
+          <mxGeometry x="654" y="1417.62" width="23.5" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-3" value="阳台东侧" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="-731" y="1199" width="138" height="42" as="geometry" />
@@ -1278,14 +1278,14 @@
         <mxCell id="f1CVza7apfxe1nxzbQIp-1436" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="118" y="1200" width="330" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="f1CVza7apfxe1nxzbQIp-1437" value="电视柜" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="28" y="1138" width="46" height="18" as="geometry" />
+        <mxCell id="f1CVza7apfxe1nxzbQIp-1437" value="电视柜&lt;br&gt;加厚背板+顶板&lt;br&gt;间隔30公分 10cm膨胀螺丝" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1139" width="152" height="46" as="geometry" />
         </mxCell>
         <mxCell id="f1CVza7apfxe1nxzbQIp-1438" value="330" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="286" y="1446" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="f1CVza7apfxe1nxzbQIp-1439" value="235" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="64" y="1297" width="30" height="18" as="geometry" />
+          <mxGeometry x="82" y="1301" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="f1CVza7apfxe1nxzbQIp-1440" value="上开柜门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="158" y="1390" width="250" height="25" as="geometry" />
@@ -1345,6 +1345,9 @@
           <mxGeometry x="0.2579" y="1" relative="1" as="geometry">
             <mxPoint x="-9" y="3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sQ27PzdxxvBjPdE7MwTL-2" value="电视墙-电" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=32;" parent="1" vertex="1">
+          <mxGeometry x="1061" y="-68" width="149" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
