@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T02:10:47.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="_YPDYvVW3MYuAj-L0oGX" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T02:11:30.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="56C5Xx2IGs3NAm0U-QCp" version="20.0.1" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
     <mxGraphModel dx="1428" dy="1421" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1455,6 +1455,21 @@
         </mxCell>
         <mxCell id="-8PWPKB_JL1pX82s8e67-11" value="双层柜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="208" y="1395" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-8PWPKB_JL1pX82s8e67-12" value="活动层板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="247" y="1356" width="58" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-8PWPKB_JL1pX82s8e67-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.638;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-8PWPKB_JL1pX82s8e67-12" target="-8PWPKB_JL1pX82s8e67-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="247" y="1377" as="sourcePoint" />
+            <mxPoint x="297" y="1327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8PWPKB_JL1pX82s8e67-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.306;entryY=-0.012;entryDx=0;entryDy=0;exitX=0.613;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="-8PWPKB_JL1pX82s8e67-12" target="f1CVza7apfxe1nxzbQIp-1440">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300.134" y="1336.538" as="sourcePoint" />
+            <mxPoint x="343" y="1405" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
