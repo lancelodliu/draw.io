@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T07:15:45.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="7eNehryT9u5WbfvrsKq9" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T07:16:34.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="fr4VcZ-y_-KYyxvfZWDi" version="20.0.1" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="5857" dy="4983" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="2651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -677,9 +677,6 @@
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-115" value="&lt;font size=&quot;1&quot;&gt;书桌&lt;br&gt;70*140&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FF8000;strokeWidth=3;fillColor=#FFFFFF;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="2373" y="1248.51" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-116" value="70" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="2571" y="1276.01" width="27" height="22" as="geometry" />
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-117" value="215" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="2508" y="1177.51" width="35" height="22" as="geometry" />
@@ -1643,7 +1640,7 @@
           <mxGeometry x="3938" y="1051" width="170" height="42" as="geometry" />
         </mxCell>
         <mxCell id="-8PWPKB_JL1pX82s8e67-136" value="书房柜子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="3993" y="1794" width="138" height="42" as="geometry" />
+          <mxGeometry x="1556" y="1645.5" width="138" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
