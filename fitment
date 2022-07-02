@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-02T08:30:27.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="qvjdwXNBaY5C7NQZIXKy" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-02T09:53:39.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="E5WdxyTaI63YOi8zHhxQ" version="20.0.3" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="2519" dy="3128" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3581" dy="3718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1641,8 +1641,8 @@
         <mxCell id="-8PWPKB_JL1pX82s8e67-135" value="北次卧柜子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="3938" y="1051" width="170" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="-8PWPKB_JL1pX82s8e67-136" value="书房柜子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" parent="1" vertex="1">
-          <mxGeometry x="1531" y="1636" width="138" height="42" as="geometry" />
+        <mxCell id="-8PWPKB_JL1pX82s8e67-136" value="书房柜子 - 4X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" parent="1" vertex="1">
+          <mxGeometry x="1531" y="1511.48" width="214" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jTAXcwbX3Z32oflheskw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="866" y="1296.48" width="155" height="90" as="geometry" />
@@ -1670,6 +1670,15 @@
         </mxCell>
         <mxCell id="jTAXcwbX3Z32oflheskw-10" value="" style="shape=mxgraph.signs.food.drinking_water_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="613.1800000000001" y="1511.98" width="24.82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="zld1VSc_qMBeKZRZ0rai-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1531" y="1584.48" width="360" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="zld1VSc_qMBeKZRZ0rai-3" value="235" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=72;" vertex="1" parent="1">
+          <mxGeometry x="1327" y="2015.5" width="138" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="zld1VSc_qMBeKZRZ0rai-4" value="90" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=72;" vertex="1" parent="1">
+          <mxGeometry x="1662" y="2558" width="98" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
