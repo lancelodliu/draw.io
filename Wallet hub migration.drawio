@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T10:53:02.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="zvF4NWQ2hrqRalyBokCG" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-06T10:58:57.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="rwCM2hyl-20ZeXW6efgh" version="20.0.4" type="github" pages="3">
   <diagram id="PJU4n7mO_tyWqtR5L4p4" name="Overall">
     <mxGraphModel dx="58" dy="477" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="2avXWJOxggs4lNIuXZ2e-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="3712" y="220" width="269" height="259" as="geometry">
-            <mxRectangle x="3744" y="220" width="50" height="44" as="alternateBounds" />
+            <mxRectangle x="3712" y="220" width="50" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2avXWJOxggs4lNIuXZ2e-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2avXWJOxggs4lNIuXZ2e-8" source="2avXWJOxggs4lNIuXZ2e-5" target="2avXWJOxggs4lNIuXZ2e-6">
@@ -25,7 +25,7 @@
           <mxGeometry x="51.5" y="178" width="177" height="51" as="geometry" />
         </mxCell>
         <mxCell id="2avXWJOxggs4lNIuXZ2e-9" value="Build and UT stage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2avXWJOxggs4lNIuXZ2e-8">
-          <mxGeometry y="14" width="120" height="26" as="geometry" />
+          <mxGeometry x="9" y="-4" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-YXRxVDKPvslBnNjFw6--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-YXRxVDKPvslBnNjFw6--1" target="-YXRxVDKPvslBnNjFw6--8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -315,6 +315,44 @@
         </mxCell>
         <mxCell id="2avXWJOxggs4lNIuXZ2e-4" value="PR checked in" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3889" y="135" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2avXWJOxggs4lNIuXZ2e-14" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="4029" y="221" width="269" height="377" as="geometry">
+            <mxRectangle x="4029" y="223" width="50" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2avXWJOxggs4lNIuXZ2e-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2avXWJOxggs4lNIuXZ2e-14" source="2avXWJOxggs4lNIuXZ2e-16" target="2avXWJOxggs4lNIuXZ2e-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2avXWJOxggs4lNIuXZ2e-16" value="Download component zip from Azure storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2avXWJOxggs4lNIuXZ2e-14">
+          <mxGeometry x="58.5" y="75" width="152" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2avXWJOxggs4lNIuXZ2e-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2avXWJOxggs4lNIuXZ2e-14" source="2avXWJOxggs4lNIuXZ2e-18" target="2avXWJOxggs4lNIuXZ2e-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2avXWJOxggs4lNIuXZ2e-18" value="Download installer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2avXWJOxggs4lNIuXZ2e-14">
+          <mxGeometry x="74.5" y="135" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2avXWJOxggs4lNIuXZ2e-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2avXWJOxggs4lNIuXZ2e-14" source="2avXWJOxggs4lNIuXZ2e-19" target="2avXWJOxggs4lNIuXZ2e-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2avXWJOxggs4lNIuXZ2e-19" value="Download dist need to be tested" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2avXWJOxggs4lNIuXZ2e-14">
+          <mxGeometry x="46" y="195" width="177" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2avXWJOxggs4lNIuXZ2e-20" value="E2E Stage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2avXWJOxggs4lNIuXZ2e-14">
+          <mxGeometry x="10" y="-3" width="75" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="2avXWJOxggs4lNIuXZ2e-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2avXWJOxggs4lNIuXZ2e-14" source="2avXWJOxggs4lNIuXZ2e-21" target="2avXWJOxggs4lNIuXZ2e-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2avXWJOxggs4lNIuXZ2e-21" value="Install Edge@channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2avXWJOxggs4lNIuXZ2e-14">
+          <mxGeometry x="46" y="260" width="177" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2avXWJOxggs4lNIuXZ2e-22" value="Run E2E test using built JS@channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2avXWJOxggs4lNIuXZ2e-14">
+          <mxGeometry x="46" y="327" width="177" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2avXWJOxggs4lNIuXZ2e-26" value="channels: rolling, canary, 103, 102" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;" vertex="1" parent="2avXWJOxggs4lNIuXZ2e-14">
+          <mxGeometry x="46" y="26" width="189" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
