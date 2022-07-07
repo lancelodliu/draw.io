@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T15:48:26.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="K28h7TeCvvz0M2MsstZm" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T08:55:25.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="35cz3fe92BI6RVJ8Jyhc" version="20.0.4" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="2005" dy="2842" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1708" dy="2677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -641,7 +641,7 @@
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-111" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FFFFFF;strokeWidth=3;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2407" y="1371.51" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-112" value="&lt;font size=&quot;1&quot;&gt;书柜&lt;br&gt;30*90&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FF8000;strokeWidth=3;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="aFvpt8S3Wu-CkxbxYAcH-112" value="&lt;font size=&quot;1&quot;&gt;书柜&lt;br&gt;30*150&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FF8000;strokeWidth=3;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2526.75" y="1370.51" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aFvpt8S3Wu-CkxbxYAcH-113" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=15;" parent="1" edge="1">
@@ -1709,7 +1709,7 @@
         <mxCell id="zld1VSc_qMBeKZRZ0rai-22" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=64;" parent="1" vertex="1">
           <mxGeometry x="1481" y="2468.98" width="54" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="edTaIH8TSq_-GxR1oy17-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mqgtIBPhpqhtbyn6h5gW-29" target="mqgtIBPhpqhtbyn6h5gW-19">
+        <mxCell id="edTaIH8TSq_-GxR1oy17-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="mqgtIBPhpqhtbyn6h5gW-29" target="mqgtIBPhpqhtbyn6h5gW-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-264" y="-238" />
@@ -1717,31 +1717,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edTaIH8TSq_-GxR1oy17-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="edTaIH8TSq_-GxR1oy17-1" target="edTaIH8TSq_-GxR1oy17-3">
+        <mxCell id="edTaIH8TSq_-GxR1oy17-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" parent="1" source="edTaIH8TSq_-GxR1oy17-1" target="edTaIH8TSq_-GxR1oy17-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edTaIH8TSq_-GxR1oy17-1" value="刷墙&lt;br&gt;7D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edTaIH8TSq_-GxR1oy17-1" value="刷墙&lt;br&gt;7D" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-354" y="-322" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="edTaIH8TSq_-GxR1oy17-3" value="阳台封窗腻子&lt;br&gt;阳台大白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edTaIH8TSq_-GxR1oy17-3" value="阳台封窗腻子&lt;br&gt;阳台大白" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-188" y="-322" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="edTaIH8TSq_-GxR1oy17-5" value="阳台 南" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edTaIH8TSq_-GxR1oy17-5" value="阳台 南" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-812" y="-609" width="395" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="edTaIH8TSq_-GxR1oy17-6" value="地砖同款瓷砖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edTaIH8TSq_-GxR1oy17-6" value="地砖同款瓷砖" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-812" y="-419" width="395" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="edTaIH8TSq_-GxR1oy17-7" value="腻子+大白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edTaIH8TSq_-GxR1oy17-7" value="腻子+大白" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-812" y="-609" width="395" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="edTaIH8TSq_-GxR1oy17-8" value="阳台 东" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edTaIH8TSq_-GxR1oy17-8" value="阳台 东" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-812" y="-310" width="199" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="edTaIH8TSq_-GxR1oy17-9" value="地砖同款瓷砖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edTaIH8TSq_-GxR1oy17-9" value="地砖同款瓷砖" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-812" y="-120" width="199" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="edTaIH8TSq_-GxR1oy17-10" value="阳台 北&lt;br&gt;腻子+大白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edTaIH8TSq_-GxR1oy17-10" value="阳台 北&lt;br&gt;腻子+大白" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-591" y="-310" width="199" height="250" as="geometry" />
         </mxCell>
       </root>
