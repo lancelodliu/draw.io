@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T03:14:54.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="BYY3VSdHMNxCYY-qhLwI" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-19T03:16:44.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="OCTXjZW0F1AdaDGPQ_6S" version="20.2.3" type="github" pages="2">
   <diagram id="3EGccO5aAeD69AkO-GQY" name="Eligibility">
     <mxGraphModel dx="2003" dy="1113" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -270,8 +270,8 @@
         <mxCell id="xupiS01tXZoCT4gvjfec-39" value="&lt;span style=&quot;text-align: left;&quot;&gt;Now &amp;lt;=&lt;/span&gt;NC[key].&lt;span style=&quot;text-align: left;&quot;&gt;CRADT?&lt;br&gt;(Snooze)&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="223.75" y="856" width="296.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xupiS01tXZoCT4gvjfec-46" value="Update/Add ND&lt;br&gt;Update" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311.87" y="990" width="120" height="60" as="geometry" />
+        <mxCell id="xupiS01tXZoCT4gvjfec-46" value="Update/Add ND&lt;br&gt;Update/Add NC&lt;br&gt;&amp;nbsp; NC[key].RT = Now&lt;br&gt;&amp;nbsp; NC[key].CRADT = Now" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="272.81" y="990" width="198.13" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
