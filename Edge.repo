@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T04:15:24.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="5u1d5HA2mTn6DXh_q00Y" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-19T04:17:31.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="PrZjsmggO0Sjmp4BzNNd" version="20.2.3" type="github" pages="2">
   <diagram id="3EGccO5aAeD69AkO-GQY" name="Eligibility">
     <mxGraphModel dx="2003" dy="1113" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -299,10 +299,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-51" value="Click Snooze" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580.01" y="595" width="120" height="30" as="geometry" />
+          <mxGeometry x="656.51" y="542" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xupiS01tXZoCT4gvjfec-52" value="Delete ND&lt;br&gt;Update NNRT = Now + 12h&lt;br&gt;Update NC&lt;br&gt;&amp;nbsp; NC[key].CRADT = Now + 30d" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="540.94" y="672" width="198.13" height="80" as="geometry" />
+        <mxCell id="xupiS01tXZoCT4gvjfec-52" value="Delete ND&lt;br&gt;Update NNRT = Now + 12h&lt;br&gt;Update NC&lt;br&gt;&amp;nbsp; NC[key].CRADT = Now + 30d" style="whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="617.44" y="619" width="198.13" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="xupiS01tXZoCT4gvjfec-55" target="xupiS01tXZoCT4gvjfec-31">
           <mxGeometry relative="1" as="geometry" />
@@ -319,19 +319,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-63" value="Click Dismiss Permanently" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580.01" y="807" width="120" height="30" as="geometry" />
+          <mxGeometry x="656.51" y="754" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xupiS01tXZoCT4gvjfec-64" value="Delete ND&lt;br&gt;Update NNRT = Now + 12h&lt;br&gt;Update NC&amp;nbsp; NC[key].CRADT = null" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="540.94" y="884" width="198.13" height="59" as="geometry" />
+        <mxCell id="xupiS01tXZoCT4gvjfec-64" value="Delete ND&lt;br&gt;Update NNRT = Now + 12h&lt;br&gt;Update NC&amp;nbsp; NC[key].CRADT = null" style="whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="617.44" y="831" width="198.13" height="59" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="xupiS01tXZoCT4gvjfec-66" target="xupiS01tXZoCT4gvjfec-67" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-66" value="After Applied Action" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="583.0699999999999" y="1023" width="120" height="30" as="geometry" />
+          <mxGeometry x="659.5699999999999" y="970" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xupiS01tXZoCT4gvjfec-67" value="Delete ND&lt;br&gt;Update NNRT = Now + 12h&lt;br&gt;Delete NC by key" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="544" y="1100" width="198.13" height="59" as="geometry" />
+        <mxCell id="xupiS01tXZoCT4gvjfec-67" value="Delete ND&lt;br&gt;Update NNRT = Now + 12h&lt;br&gt;Delete NC by key" style="whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="620.5" y="1047" width="198.13" height="59" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xupiS01tXZoCT4gvjfec-68" target="xupiS01tXZoCT4gvjfec-35">
           <mxGeometry relative="1" as="geometry" />
@@ -358,13 +358,16 @@
           <mxGeometry x="191.74" y="650" width="296.25" height="54" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-73" value="Snooze" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="530.51" y="565" width="219" height="200" as="geometry" />
+          <mxGeometry x="607.01" y="512" width="219" height="200" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-74" value="Dismiss" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="530.5" y="777" width="219" height="200" as="geometry" />
+          <mxGeometry x="607" y="724" width="219" height="200" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-75" value="Applied Action" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="530.5" y="986" width="219" height="200" as="geometry" />
+          <mxGeometry x="607" y="933" width="219" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xupiS01tXZoCT4gvjfec-76" value="JS Scope" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="607.01" y="480" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
