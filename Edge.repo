@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T03:30:39.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="jjW686tQ-ToPeqh_XXQh" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-19T03:32:17.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="3FE-I5j55xPJKx81QS2k" version="20.2.3" type="github" pages="2">
   <diagram id="3EGccO5aAeD69AkO-GQY" name="Eligibility">
     <mxGraphModel dx="2003" dy="1113" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -156,11 +156,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xupiS01tXZoCT4gvjfec-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xupiS01tXZoCT4gvjfec-1" target="xupiS01tXZoCT4gvjfec-19">
+        <mxCell id="xupiS01tXZoCT4gvjfec-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="xupiS01tXZoCT4gvjfec-55" target="xupiS01tXZoCT4gvjfec-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xupiS01tXZoCT4gvjfec-58" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xupiS01tXZoCT4gvjfec-20">
+          <mxGeometry x="-0.2278" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xupiS01tXZoCT4gvjfec-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xupiS01tXZoCT4gvjfec-1" target="xupiS01tXZoCT4gvjfec-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-1" value="Browser open/&lt;br&gt;Open profile bubble" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-10" value="Preference" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="80" width="280" height="120" as="geometry" />
@@ -290,6 +298,17 @@
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-52" value="Delete ND&lt;br&gt;Update NNRT = Now + 12h&lt;br&gt;Update NC&lt;br&gt;&amp;nbsp; NC[key].RT = Now&lt;br&gt;&amp;nbsp; NC[key].CRADT = Now + 30d" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="570.94" y="760" width="198.13" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xupiS01tXZoCT4gvjfec-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xupiS01tXZoCT4gvjfec-55" target="xupiS01tXZoCT4gvjfec-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xupiS01tXZoCT4gvjfec-60" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xupiS01tXZoCT4gvjfec-59">
+          <mxGeometry x="-0.9544" relative="1" as="geometry">
+            <mxPoint x="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xupiS01tXZoCT4gvjfec-55" value="Now &amp;gt; NNRT?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
