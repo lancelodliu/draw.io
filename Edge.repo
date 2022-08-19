@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T03:08:29.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="hog_Y0RxCVbFGlM0LeWU" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-19T03:10:18.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="AAMJTRATwQZ8vKULjjEX" version="20.2.3" type="github" pages="2">
   <diagram id="3EGccO5aAeD69AkO-GQY" name="Eligibility">
     <mxGraphModel dx="2003" dy="1113" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -217,11 +217,25 @@
         <mxCell id="xupiS01tXZoCT4gvjfec-26" value="Now - NC[key].RenderTime &amp;gt; 12h?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="429" width="290" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="xupiS01tXZoCT4gvjfec-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xupiS01tXZoCT4gvjfec-30" target="xupiS01tXZoCT4gvjfec-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-30" value="Run builders to&lt;br&gt;get new ND" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-31" value="Done" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="442" width="80" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="xupiS01tXZoCT4gvjfec-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="xupiS01tXZoCT4gvjfec-35" target="xupiS01tXZoCT4gvjfec-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xupiS01tXZoCT4gvjfec-38" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xupiS01tXZoCT4gvjfec-37">
+          <mxGeometry x="-0.1823" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xupiS01tXZoCT4gvjfec-35" value="&lt;span style=&quot;text-align: left;&quot;&gt;CanRenderAfterDateTime == null?&lt;br&gt;(Dismiss permanently)&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223.75" y="730" width="292.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
