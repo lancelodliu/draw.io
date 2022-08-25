@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T03:33:34.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="az1-wTj3YqsMX0at8bKj" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-25T03:35:42.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="-79BB_-cJ23cpaw59WB-" version="20.2.7" type="github" pages="2">
   <diagram id="3EGccO5aAeD69AkO-GQY" name="Eligibility">
     <mxGraphModel dx="1456" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -188,7 +188,7 @@
         <mxCell id="RXZalzsnoKnXARKZzMjZ-16" value="NAST: edge_wallet.notification.noActionStartTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xupiS01tXZoCT4gvjfec-10">
           <mxGeometry y="150" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RXZalzsnoKnXARKZzMjZ-17" value="NANT: edge_wallet.notification.hasUserTakenAction" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#333333;" vertex="1" parent="xupiS01tXZoCT4gvjfec-10">
+        <mxCell id="RXZalzsnoKnXARKZzMjZ-17" value="HUTA: edge_wallet.notification.hasUserTakenAction" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#333333;" vertex="1" parent="xupiS01tXZoCT4gvjfec-10">
           <mxGeometry y="180" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xupiS01tXZoCT4gvjfec-13" target="RXZalzsnoKnXARKZzMjZ-8" edge="1">
@@ -379,12 +379,6 @@
           <mxGeometry x="486.25" y="7" width="355" height="64" as="geometry" />
         </mxCell>
         <mxCell id="RXZalzsnoKnXARKZzMjZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#97D077;" edge="1" parent="1" source="xupiS01tXZoCT4gvjfec-12" target="RXZalzsnoKnXARKZzMjZ-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RXZalzsnoKnXARKZzMjZ-12" value="{&#xa;  // RT&#xa;  &quot;SignUpRewards&quot;: &quot;2022-08-18T21:38:45.599Z&quot;,&#xa;}" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="486.25" y="153" width="355" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="RXZalzsnoKnXARKZzMjZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#97D077;" edge="1" parent="1" source="RXZalzsnoKnXARKZzMjZ-11" target="RXZalzsnoKnXARKZzMjZ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
