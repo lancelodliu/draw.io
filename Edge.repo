@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T03:31:58.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="e6hGK8pFrmAV7tWue-9e" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-25T03:33:34.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="az1-wTj3YqsMX0at8bKj" version="20.2.7" type="github" pages="2">
   <diagram id="3EGccO5aAeD69AkO-GQY" name="Eligibility">
     <mxGraphModel dx="1456" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -324,7 +324,7 @@
         <mxCell id="xupiS01tXZoCT4gvjfec-51" value="Click Snooze" style="rounded=1;whiteSpace=wrap;html=1;" parent="xupiS01tXZoCT4gvjfec-73" vertex="1">
           <mxGeometry x="52.059999999999945" y="35" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xupiS01tXZoCT4gvjfec-52" value="Delete DATA&lt;br&gt;Update NRT = Now + 12h&lt;br&gt;Update NC&lt;br&gt;&amp;nbsp; NC[key].CRADT = Now + 30d" style="whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xupiS01tXZoCT4gvjfec-73" vertex="1">
+        <mxCell id="xupiS01tXZoCT4gvjfec-52" value="Delete DATA&lt;br&gt;NRT = Now + 12h&lt;br&gt;ELG[key]= Now + 30d" style="whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xupiS01tXZoCT4gvjfec-73" vertex="1">
           <mxGeometry x="12.990000000000009" y="89" width="198.13" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="xupiS01tXZoCT4gvjfec-73" source="xupiS01tXZoCT4gvjfec-51" target="xupiS01tXZoCT4gvjfec-52" edge="1">
@@ -336,7 +336,7 @@
         <mxCell id="xupiS01tXZoCT4gvjfec-63" value="Click Dismiss Permanently" style="rounded=1;whiteSpace=wrap;html=1;" parent="xupiS01tXZoCT4gvjfec-74" vertex="1">
           <mxGeometry x="49.51999999999998" y="40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xupiS01tXZoCT4gvjfec-64" value="Delete ND&lt;br&gt;Update NNRT = Now + 12h&lt;br&gt;Update NC&amp;nbsp; NC[key].CRADT = null" style="whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xupiS01tXZoCT4gvjfec-74" vertex="1">
+        <mxCell id="xupiS01tXZoCT4gvjfec-64" value="Delete DATA&lt;br&gt;NRT = Now + 12h&lt;br&gt;ELG[key] = Now + 100yrs" style="whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xupiS01tXZoCT4gvjfec-74" vertex="1">
           <mxGeometry x="10.450000000000045" y="95" width="198.13" height="59" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="xupiS01tXZoCT4gvjfec-74" source="xupiS01tXZoCT4gvjfec-63" target="xupiS01tXZoCT4gvjfec-64" edge="1">
@@ -348,7 +348,7 @@
         <mxCell id="xupiS01tXZoCT4gvjfec-66" value="After Applied Action" style="rounded=1;whiteSpace=wrap;html=1;" parent="xupiS01tXZoCT4gvjfec-75" vertex="1">
           <mxGeometry x="52.069999999999936" y="39" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xupiS01tXZoCT4gvjfec-67" value="Delete ND&lt;br&gt;Update NNRT = Now + 12h&lt;br&gt;Delete NC by key" style="whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xupiS01tXZoCT4gvjfec-75" vertex="1">
+        <mxCell id="xupiS01tXZoCT4gvjfec-67" value="Delete DATA&lt;br&gt;NRT = Now + 12h&lt;br&gt;Delete ELG by key" style="whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xupiS01tXZoCT4gvjfec-75" vertex="1">
           <mxGeometry x="13" y="97" width="198.13" height="59" as="geometry" />
         </mxCell>
         <mxCell id="xupiS01tXZoCT4gvjfec-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="xupiS01tXZoCT4gvjfec-75" source="xupiS01tXZoCT4gvjfec-66" target="xupiS01tXZoCT4gvjfec-67" edge="1">
