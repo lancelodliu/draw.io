@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T15:35:47.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="11sNyfjhZd8zuyFxnVcB" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-03T15:41:19.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="0mpvc-Q5xRc-5r3qanAF" version="20.2.7" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="4490" dy="4288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5703" dy="4983" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -906,13 +906,13 @@
           <mxGeometry x="22" y="-307.00000000000006" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gSrt-xvYzIThh3sHvE3f-2" value="柜子" style="swimlane;horizontal=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-722" y="2913" width="3894.11" height="3039" as="geometry" />
+          <mxGeometry x="-722" y="2913" width="5348" height="3039" as="geometry" />
         </mxCell>
         <mxCell id="Qi4J0k9g7kEpRZWCp371-1" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;玄关柜 2.35*1.45 = 3.4&amp;nbsp;&lt;br style=&quot;font-size: 48px;&quot;&gt;&lt;font color=&quot;#ff9999&quot; style=&quot;font-size: 48px;&quot;&gt;2个5孔&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=48;" parent="gSrt-xvYzIThh3sHvE3f-2" vertex="1">
           <mxGeometry x="164" y="59" width="516" height="127" as="geometry" />
         </mxCell>
         <mxCell id="-8PWPKB_JL1pX82s8e67-135" value="北次卧柜子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=48;" parent="gSrt-xvYzIThh3sHvE3f-2" vertex="1">
-          <mxGeometry x="3756" y="1595" width="258" height="70" as="geometry" />
+          <mxGeometry x="3591" y="1600" width="258" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gSrt-xvYzIThh3sHvE3f-3" value="阳台西侧 - 总体 1.55*2.5=3.875" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=48;" vertex="1" parent="gSrt-xvYzIThh3sHvE3f-2">
           <mxGeometry x="69" y="1554" width="689" height="70" as="geometry" />
