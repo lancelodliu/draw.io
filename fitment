@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T15:35:29.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="lqXQwlQdH5-CAZn_9-Y9" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-03T15:35:47.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="11sNyfjhZd8zuyFxnVcB" version="20.2.7" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
-    <mxGraphModel dx="3277" dy="3592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4490" dy="4288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1641,8 +1641,8 @@
         <mxCell id="Qi4J0k9g7kEpRZWCp371-3" value="145cm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" parent="gSrt-xvYzIThh3sHvE3f-30" vertex="1">
           <mxGeometry x="315.3713656542702" y="-6" width="114" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qi4J0k9g7kEpRZWCp371-4" value="235？cm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FF0000;fontStyle=1" parent="gSrt-xvYzIThh3sHvE3f-30" vertex="1">
-          <mxGeometry x="47" y="423.5086848635235" width="92" height="28" as="geometry" />
+        <mxCell id="Qi4J0k9g7kEpRZWCp371-4" value="235？cm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontColor=#FF0000;fontStyle=1" parent="gSrt-xvYzIThh3sHvE3f-30" vertex="1">
+          <mxGeometry x="-3" y="412.5086848635235" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qi4J0k9g7kEpRZWCp371-5" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;aspect=fixed;size=32;" parent="gSrt-xvYzIThh3sHvE3f-30" vertex="1">
           <mxGeometry x="148.77898049783562" y="54.94623655913977" width="508.2095663907244" height="911.2606662827693" as="geometry" />
@@ -1772,9 +1772,6 @@
         </mxCell>
         <mxCell id="FoeaQ_qo2qfpoG956VBd-21" value="配电箱" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="gSrt-xvYzIThh3sHvE3f-30" vertex="1">
           <mxGeometry x="218.60366111784248" y="379.55169561621165" width="135.253618634396" height="98.05789909015714" as="geometry" />
-        </mxCell>
-        <mxCell id="FoeaQ_qo2qfpoG956VBd-22" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;活动层板&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="gSrt-xvYzIThh3sHvE3f-30" vertex="1">
-          <mxGeometry x="95" y="244" width="101.4" height="50.72" as="geometry" />
         </mxCell>
         <mxCell id="FoeaQ_qo2qfpoG956VBd-23" value="离地145cm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=48;" parent="gSrt-xvYzIThh3sHvE3f-30" vertex="1">
           <mxGeometry x="956.9987350993711" y="453.99959470636884" width="258" height="70" as="geometry" />
