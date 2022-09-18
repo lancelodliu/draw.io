@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-18T11:28:43.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="El0NoVjnIVsJtc45meMd" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-18T11:29:06.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="KWy5SzyhLsrUWdILsoKs" version="20.3.0" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
     <mxGraphModel dx="2306" dy="3035" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,6 +123,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-57" y="-99" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Jg_Ap9Bptv4PPOUj01as-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqgtIBPhpqhtbyn6h5gW-26" target="Jg_Ap9Bptv4PPOUj01as-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mqgtIBPhpqhtbyn6h5gW-26" value="橱柜安装&lt;br&gt;10/8" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-138" y="-181.00000000000006" width="120" height="60" as="geometry" />
@@ -1854,6 +1857,9 @@
         </mxCell>
         <mxCell id="Jg_Ap9Bptv4PPOUj01as-5" value="浴室柜&lt;font color=&quot;#ff8000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="61" y="-77" width="120" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Jg_Ap9Bptv4PPOUj01as-9" value="阳台台盆&lt;font color=&quot;#ff8000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-306" y="-77" width="120" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
