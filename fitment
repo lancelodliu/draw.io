@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T05:26:26.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="e7YAqwuQoZeawKX4ecJv" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T05:26:55.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="AV6Sb3F0xeVC-jH0rLzZ" version="20.2.7" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
     <mxGraphModel dx="2306" dy="3027" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -210,9 +210,6 @@
           <mxGeometry x="-171" y="-762" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mqgtIBPhpqhtbyn6h5gW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqgtIBPhpqhtbyn6h5gW-4" target="mqgtIBPhpqhtbyn6h5gW-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Jg_Ap9Bptv4PPOUj01as-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" source="mqgtIBPhpqhtbyn6h5gW-16" target="I1IJZ3DjtBTU27ZG8zqR-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mqgtIBPhpqhtbyn6h5gW-16" value="封阳台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -879,9 +876,6 @@
         </mxCell>
         <mxCell id="edTaIH8TSq_-GxR1oy17-10" value="阳台 北&lt;br&gt;地砖同款瓷砖" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-591" y="-310" width="199" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="I1IJZ3DjtBTU27ZG8zqR-2" value="纱窗" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="158" y="-748" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gSrt-xvYzIThh3sHvE3f-2" value="柜子" style="swimlane;horizontal=0;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-722" y="2913" width="5348" height="3039" as="geometry" />
@@ -1872,8 +1866,14 @@
         <mxCell id="Jg_Ap9Bptv4PPOUj01as-16" value="阳台台盆预定、安装&lt;font color=&quot;#ff8000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="26.5" y="-106" width="120" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="_2s6a8tJa00tlLBbIypS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="_2s6a8tJa00tlLBbIypS-2" target="_2s6a8tJa00tlLBbIypS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_2s6a8tJa00tlLBbIypS-2" value="后续油漆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170.5" y="-18" width="120" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="_2s6a8tJa00tlLBbIypS-5" value="纱窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="-25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
