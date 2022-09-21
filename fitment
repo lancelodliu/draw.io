@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T12:07:17.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="fRCeH26PJv5YcOi1p5eh" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T12:07:42.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="Dv0wrw7ZU5B7QfZ69m38" version="20.3.2" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
     <mxGraphModel dx="5010" dy="5686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,25 +37,6 @@
         <mxCell id="oFoxFOt0oGnHd2o6EDSr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=7;fontSize=48;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="oFoxFOt0oGnHd2o6EDSr-1" source="oFoxFOt0oGnHd2o6EDSr-29" target="oFoxFOt0oGnHd2o6EDSr-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oFoxFOt0oGnHd2o6EDSr-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeWidth=7;fontSize=48;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="oFoxFOt0oGnHd2o6EDSr-1" source="oFoxFOt0oGnHd2o6EDSr-29" target="oFoxFOt0oGnHd2o6EDSr-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="135" y="629" />
-              <mxPoint x="1871" y="629" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oFoxFOt0oGnHd2o6EDSr-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeWidth=7;fontSize=48;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="oFoxFOt0oGnHd2o6EDSr-1" source="oFoxFOt0oGnHd2o6EDSr-29" target="oFoxFOt0oGnHd2o6EDSr-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="395" y="1023" />
-              <mxPoint x="1926" y="1023" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oFoxFOt0oGnHd2o6EDSr-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=7;fontSize=48;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="oFoxFOt0oGnHd2o6EDSr-1" source="oFoxFOt0oGnHd2o6EDSr-29" target="oFoxFOt0oGnHd2o6EDSr-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oFoxFOt0oGnHd2o6EDSr-29" value="交换机" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontSize=48;" vertex="1" parent="oFoxFOt0oGnHd2o6EDSr-1">
           <mxGeometry x="135" y="816" width="260" height="187" as="geometry" />
         </mxCell>
@@ -67,15 +48,6 @@
         </mxCell>
         <mxCell id="oFoxFOt0oGnHd2o6EDSr-34" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;fontSize=48;" vertex="1" parent="oFoxFOt0oGnHd2o6EDSr-1">
           <mxGeometry x="925" y="1040" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oFoxFOt0oGnHd2o6EDSr-36" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;fontSize=48;" vertex="1" parent="oFoxFOt0oGnHd2o6EDSr-1">
-          <mxGeometry x="1563" y="390" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oFoxFOt0oGnHd2o6EDSr-37" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;fontSize=48;" vertex="1" parent="oFoxFOt0oGnHd2o6EDSr-1">
-          <mxGeometry x="1923" y="874" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oFoxFOt0oGnHd2o6EDSr-38" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;fontSize=48;" vertex="1" parent="oFoxFOt0oGnHd2o6EDSr-1">
-          <mxGeometry x="1864" y="209" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-8PWPKB_JL1pX82s8e67-98" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1191" y="92.5" width="735" height="336.5" as="geometry" />
