@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T12:07:42.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="Dv0wrw7ZU5B7QfZ69m38" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T12:09:09.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="k_YUNwSh4n7ElmoeYMiV" version="20.3.2" type="github">
   <diagram id="PWSv7srNynZAD-rVWzOM" name="Page-1">
     <mxGraphModel dx="5010" dy="5686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,13 +41,19 @@
           <mxGeometry x="135" y="816" width="260" height="187" as="geometry" />
         </mxCell>
         <mxCell id="oFoxFOt0oGnHd2o6EDSr-32" value="子路由器" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;fontSize=48;" vertex="1" parent="oFoxFOt0oGnHd2o6EDSr-1">
-          <mxGeometry x="726" y="1006" width="145" height="118" as="geometry" />
+          <mxGeometry x="621" y="1008" width="145" height="118" as="geometry" />
         </mxCell>
         <mxCell id="oFoxFOt0oGnHd2o6EDSr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;fontSize=48;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="oFoxFOt0oGnHd2o6EDSr-1" source="oFoxFOt0oGnHd2o6EDSr-34" target="oFoxFOt0oGnHd2o6EDSr-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oFoxFOt0oGnHd2o6EDSr-34" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;fontSize=48;" vertex="1" parent="oFoxFOt0oGnHd2o6EDSr-1">
+        <mxCell id="oFoxFOt0oGnHd2o6EDSr-34" value="南次卧" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;fontSize=48;" vertex="1" parent="oFoxFOt0oGnHd2o6EDSr-1">
           <mxGeometry x="925" y="1040" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oFoxFOt0oGnHd2o6EDSr-50" value="弱电箱" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;sketch=0;strokeWidth=7;fontSize=48;fillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=#d79b00;fontColor=#FFD966;" vertex="1" parent="oFoxFOt0oGnHd2o6EDSr-1">
+          <mxGeometry x="92" y="418" width="333" height="695" as="geometry" />
+        </mxCell>
+        <mxCell id="oFoxFOt0oGnHd2o6EDSr-51" value="&lt;font color=&quot;#66b2ff&quot;&gt;电视柜&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;sketch=0;strokeWidth=7;fontSize=48;fillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=#6c8ebf;" vertex="1" parent="oFoxFOt0oGnHd2o6EDSr-1">
+          <mxGeometry x="1590" y="398" width="333" height="695" as="geometry" />
         </mxCell>
         <mxCell id="-8PWPKB_JL1pX82s8e67-98" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1191" y="92.5" width="735" height="336.5" as="geometry" />
