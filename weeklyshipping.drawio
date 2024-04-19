@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T05:15:07.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Tk4GbfunmkrkoNr7p7wX" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T05:17:24.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="QBOU0V8P3xs31S0wPPLs" version="24.2.5" type="github">
   <diagram name="第 1 页" id="Ng7ClqAJyXNO9tm5_SyX">
     <mxGraphModel dx="2050" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="PRoUlpW756x2f0xIoc_f-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PRoUlpW756x2f0xIoc_f-1" target="PRoUlpW756x2f0xIoc_f-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PRoUlpW756x2f0xIoc_f-1" value="Every Tuesday 11:00AM CST" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PRoUlpW756x2f0xIoc_f-1" value="Every &lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Tuesday 11:00AM CST&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PRoUlpW756x2f0xIoc_f-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PRoUlpW756x2f0xIoc_f-2" target="PRoUlpW756x2f0xIoc_f-1">
@@ -79,7 +79,7 @@
         <mxCell id="PRoUlpW756x2f0xIoc_f-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PRoUlpW756x2f0xIoc_f-37" target="PRoUlpW756x2f0xIoc_f-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PRoUlpW756x2f0xIoc_f-37" value="Parts owner reply with verify result by end of Wednesday 14:00PM CST&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PRoUlpW756x2f0xIoc_f-37" value="Parts owner reply with verify result by &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;end of Wednesday 14:00PM CST&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="790" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PRoUlpW756x2f0xIoc_f-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.939;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="PRoUlpW756x2f0xIoc_f-37" target="PRoUlpW756x2f0xIoc_f-36">
