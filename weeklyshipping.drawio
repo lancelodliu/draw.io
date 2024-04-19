@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T05:04:18.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="XCWfikKP5k5Asnu_APeO" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T05:05:38.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="TFBYp2tWhYz5bsHgLtKQ" version="24.2.5" type="github">
   <diagram name="第 1 页" id="Ng7ClqAJyXNO9tm5_SyX">
     <mxGraphModel dx="1223" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="PRoUlpW756x2f0xIoc_f-20" value="Comment in the Teams notification to notify feature owners to do BVT&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="690" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PRoUlpW756x2f0xIoc_f-23" value="Please verify below with your parts if all the tests are passed. @A / @B / @C" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
+        <mxCell id="PRoUlpW756x2f0xIoc_f-23" value="Please verify below with your parts if all the tests are passed. @A / @B / @C" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="500" y="680" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PRoUlpW756x2f0xIoc_f-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PRoUlpW756x2f0xIoc_f-20" target="PRoUlpW756x2f0xIoc_f-23">
