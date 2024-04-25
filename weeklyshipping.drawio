@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T06:49:46.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="knMxAzv92CW-NksXiUvm" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-25T00:40:22.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="F7Q1F-NRc6BA3VdjJFYK" version="24.2.8" type="github" pages="2">
   <diagram name="第 1 页" id="Ng7ClqAJyXNO9tm5_SyX">
     <mxGraphModel dx="2295" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,14 +108,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q_nUP4X_aan_2hY-rcF3" name="第 2 页">
-    <mxGraphModel dx="1468" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9FLx_j3Oqw91T5bJDFA7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9FLx_j3Oqw91T5bJDFA7-2" target="9FLx_j3Oqw91T5bJDFA7-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9FLx_j3Oqw91T5bJDFA7-2" value="Every &lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Tuesday 14:00PM CST&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9FLx_j3Oqw91T5bJDFA7-2" value="Every &lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Tuesday 14:00PM CST(UTC +8)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="420" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9FLx_j3Oqw91T5bJDFA7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9FLx_j3Oqw91T5bJDFA7-4" target="9FLx_j3Oqw91T5bJDFA7-2" edge="1">
@@ -201,10 +201,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ePrlLqZZP26gi03Phalk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FLx_j3Oqw91T5bJDFA7-39" target="9FLx_j3Oqw91T5bJDFA7-38">
+        <mxCell id="ePrlLqZZP26gi03Phalk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9FLx_j3Oqw91T5bJDFA7-39" target="9FLx_j3Oqw91T5bJDFA7-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ePrlLqZZP26gi03Phalk-3" value="Leave comment passed/failed for feature xxx" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ePrlLqZZP26gi03Phalk-2">
+        <mxCell id="ePrlLqZZP26gi03Phalk-3" value="Leave comment passed/failed for feature xxx" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ePrlLqZZP26gi03Phalk-2" vertex="1" connectable="0">
           <mxGeometry x="-0.4703" y="1" relative="1" as="geometry">
             <mxPoint x="41" y="1" as="offset" />
           </mxGeometry>
