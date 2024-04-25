@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T00:41:13.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="no6g-F74QlN0by_-BFr5" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-25T01:25:04.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="L6SxdzFNUWwWfwdMxm0V" version="24.2.8" type="github" pages="2">
   <diagram name="第 1 页" id="Ng7ClqAJyXNO9tm5_SyX">
     <mxGraphModel dx="2295" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q_nUP4X_aan_2hY-rcF3" name="第 2 页">
-    <mxGraphModel dx="1713" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1428" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,7 +149,7 @@
         <mxCell id="9FLx_j3Oqw91T5bJDFA7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9FLx_j3Oqw91T5bJDFA7-20" target="9FLx_j3Oqw91T5bJDFA7-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9FLx_j3Oqw91T5bJDFA7-20" value="&lt;b&gt;Release master&lt;/b&gt; send approval request mail" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9FLx_j3Oqw91T5bJDFA7-20" value="&lt;b&gt;Release master&lt;/b&gt; send approval request mail with the OneNote details" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="699.94" width="200" height="56.28" as="geometry" />
         </mxCell>
         <mxCell id="9FLx_j3Oqw91T5bJDFA7-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9FLx_j3Oqw91T5bJDFA7-21" target="9FLx_j3Oqw91T5bJDFA7-39" edge="1">
