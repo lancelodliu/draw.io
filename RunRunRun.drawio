@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T14:03:08.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="VY_wvLqpe1arffuu9rFf" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-04T14:05:54.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="upZMC__lzgiH1MzjGGaK" version="24.3.1" type="github">
   <diagram name="第 1 页" id="2a8IaGi-SIB8uY6eGXwn">
-    <mxGraphModel dx="2295" dy="1992" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1868" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u_eatWrobegxD37L-Buj-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u_eatWrobegxD37L-Buj-3" target="u_eatWrobegxD37L-Buj-9">
+        <mxCell id="u_eatWrobegxD37L-Buj-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=diamond;endFill=0;" edge="1" parent="1" source="u_eatWrobegxD37L-Buj-3" target="u_eatWrobegxD37L-Buj-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u_eatWrobegxD37L-Buj-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_eatWrobegxD37L-Buj-3" target="u_eatWrobegxD37L-Buj-11">
+        <mxCell id="u_eatWrobegxD37L-Buj-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=diamond;endFill=0;" edge="1" parent="1" source="u_eatWrobegxD37L-Buj-3" target="u_eatWrobegxD37L-Buj-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_eatWrobegxD37L-Buj-3" value="Player" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -31,6 +31,9 @@
         </mxCell>
         <mxCell id="u_eatWrobegxD37L-Buj-9" value="PlayerController" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-77" y="201" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eatWrobegxD37L-Buj-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=diamond;endFill=0;" edge="1" parent="1" source="u_eatWrobegxD37L-Buj-11" target="u_eatWrobegxD37L-Buj-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_eatWrobegxD37L-Buj-11" value="CharacterStats" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="344" y="204" width="140" height="80" as="geometry" />
@@ -57,6 +60,26 @@
           <mxGeometry x="0.1034" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="u_eatWrobegxD37L-Buj-26" value="ScriptableObject" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="508" y="-80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eatWrobegxD37L-Buj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="u_eatWrobegxD37L-Buj-27" target="u_eatWrobegxD37L-Buj-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eatWrobegxD37L-Buj-32" value="Use template to instantiate data&lt;div&gt;on Awake()&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u_eatWrobegxD37L-Buj-31">
+          <mxGeometry x="-0.2554" y="2" relative="1" as="geometry">
+            <mxPoint y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_eatWrobegxD37L-Buj-27" value="CharacterData_SO&lt;div&gt;template&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="574" y="78" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eatWrobegxD37L-Buj-28" value="CharacterData_SO&lt;div&gt;characterData&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="574" y="324" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eatWrobegxD37L-Buj-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=diamond;endFill=0;" edge="1" parent="1" source="u_eatWrobegxD37L-Buj-11" target="u_eatWrobegxD37L-Buj-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
