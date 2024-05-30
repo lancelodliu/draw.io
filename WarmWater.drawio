@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T10:07:51.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.3.1" etag="6_q0b2sugoxshcrQsI3u" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T10:11:27.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="kInZu3INGMuC-6_xrFsG" version="24.3.1" type="github">
   <diagram name="第 1 页" id="RjpetJTwipTLnsahrz_m">
-    <mxGraphModel>
+    <mxGraphModel dx="1012" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uw0LiMIyFGHMJh5Y2aWj-6" value="点击开始游戏" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uw0LiMIyFGHMJh5Y2aWj-1" target="uw0LiMIyFGHMJh5Y2aWj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uw0LiMIyFGHMJh5Y2aWj-1" value="MenuSceneState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uw0LiMIyFGHMJh5Y2aWj-8" value="选完流派&lt;div&gt;走到NextLevelPoint&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uw0LiMIyFGHMJh5Y2aWj-2" target="uw0LiMIyFGHMJh5Y2aWj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uw0LiMIyFGHMJh5Y2aWj-9" value="点击返回标题页" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="uw0LiMIyFGHMJh5Y2aWj-2" target="uw0LiMIyFGHMJh5Y2aWj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uw0LiMIyFGHMJh5Y2aWj-2" value="PrepareRoomSceneState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uw0LiMIyFGHMJh5Y2aWj-10" value="完成关卡目标&lt;div&gt;奖励选择完毕&lt;/div&gt;&lt;div&gt;走到NLP&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uw0LiMIyFGHMJh5Y2aWj-3" target="uw0LiMIyFGHMJh5Y2aWj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uw0LiMIyFGHMJh5Y2aWj-3" value="Level1SceneState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uw0LiMIyFGHMJh5Y2aWj-11" value="完成关卡目标&lt;div&gt;奖励选择完毕&lt;/div&gt;&lt;div&gt;走到NLP&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uw0LiMIyFGHMJh5Y2aWj-4" target="uw0LiMIyFGHMJh5Y2aWj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uw0LiMIyFGHMJh5Y2aWj-4" value="Level2SceneState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uw0LiMIyFGHMJh5Y2aWj-13" value="阵亡或&lt;div&gt;获胜&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uw0LiMIyFGHMJh5Y2aWj-5" target="uw0LiMIyFGHMJh5Y2aWj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uw0LiMIyFGHMJh5Y2aWj-5" value="Level3SceneState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
