@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T05:56:45.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="-S_OCP6ovVobldzRqcZ9" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-03T05:57:46.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="_gjkvdvpiUXrGW1El90L" version="24.4.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2441" dy="3749" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -600,6 +600,9 @@
         </mxCell>
         <mxCell id="tsgTheDMaKAT3AI7L5VT-15" value="WebView&lt;div&gt;bridge.requestCustom&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1663" y="-3004" width="229" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tsgTheDMaKAT3AI7L5VT-21" value="const AppId = &quot;6dc7564de7424d4698716df1b6d86867&quot;;&lt;div&gt;const Partner = &quot;Sydney&quot;;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1313" y="-3076" width="345" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
