@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T06:07:23.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="h-uGYfKKV0qbl9gNzfP1" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-03T06:08:04.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="PT3djySNr1XnlgyOWImW" version="24.4.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2609" dy="4258" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -604,6 +604,9 @@
         <mxCell id="tsgTheDMaKAT3AI7L5VT-21" value="const AppId = &quot;6dc7564de7424d4698716df1b6d86867&quot;;&lt;div&gt;const Partner = &quot;Sydney&quot;;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1313" y="-3076" width="345" height="64" as="geometry" />
         </mxCell>
+        <mxCell id="tsgTheDMaKAT3AI7L5VT-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tsgTheDMaKAT3AI7L5VT-22" target="tsgTheDMaKAT3AI7L5VT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tsgTheDMaKAT3AI7L5VT-22" value="SapphireDeepLinkUtils&lt;br&gt;.handleDeepLink" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2762" y="-3062" width="229" height="60" as="geometry" />
         </mxCell>
@@ -615,6 +618,15 @@
         </mxCell>
         <mxCell id="tsgTheDMaKAT3AI7L5VT-24" value="WebView&lt;div&gt;bridge.navigate&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2762" y="-3225" width="229" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tsgTheDMaKAT3AI7L5VT-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tsgTheDMaKAT3AI7L5VT-27" target="tsgTheDMaKAT3AI7L5VT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsgTheDMaKAT3AI7L5VT-27" value="is sapphire://payment ?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2765" y="-2932" width="223" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tsgTheDMaKAT3AI7L5VT-30" value="Open paywall" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2816.5" y="-2762" width="120" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
