@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T15:33:15.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="kd3XqIObBogp2cPiozcY" version="24.4.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-06T15:33:19.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="u8fL8t1C1Hea4TryiedB" version="24.4.13" type="github" pages="3">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,7 +235,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oHZiTbTiMajsEzp6RkLe-1" value="敌人脱离视野范围" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YJlgjo9phD5dh0JxE-f-6" target="8YJlgjo9phD5dh0JxE-f-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="209" y="-254" />
+              <mxPoint x="-35" y="-254" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oHZiTbTiMajsEzp6RkLe-2" value="血量归零" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YJlgjo9phD5dh0JxE-f-6" target="8YJlgjo9phD5dh0JxE-f-10">
           <mxGeometry relative="1" as="geometry">
