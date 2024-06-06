@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T13:27:24.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="DhJ_zg7tQ4dC0RUjOmlu" version="24.4.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-06T13:28:37.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="aWGWCIlXAzufol2SB9gq" version="24.4.13" type="github" pages="3">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,6 +197,15 @@
         </mxCell>
         <mxCell id="8YJlgjo9phD5dh0JxE-f-7" value="视野内有可攻击的人" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YJlgjo9phD5dh0JxE-f-4" target="8YJlgjo9phD5dh0JxE-f-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YJlgjo9phD5dh0JxE-f-16" value="视野内没有可攻击的人" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YJlgjo9phD5dh0JxE-f-4" target="8YJlgjo9phD5dh0JxE-f-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-38.20001220703125" y="-426.79998779296875" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-89" y="-432" />
+              <mxPoint x="-35" y="-432" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8YJlgjo9phD5dh0JxE-f-4" value="EnemyIdleState" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-116" y="-341" width="108" height="34" as="geometry" />
