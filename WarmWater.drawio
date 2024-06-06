@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T13:24:16.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="zwO9QSChZVBcHCTpEdR9" version="24.4.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-06T13:27:24.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="DhJ_zg7tQ4dC0RUjOmlu" version="24.4.13" type="github" pages="3">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IE5uuYhjsnOqAhuN19nV" name="CharacterState">
-    <mxGraphModel dx="1868" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1868" dy="1623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,17 +195,49 @@
         <mxCell id="8YJlgjo9phD5dh0JxE-f-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-304" y="-341" width="108" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="8YJlgjo9phD5dh0JxE-f-7" value="附近有可攻击的人" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YJlgjo9phD5dh0JxE-f-4" target="8YJlgjo9phD5dh0JxE-f-6">
+        <mxCell id="8YJlgjo9phD5dh0JxE-f-7" value="视野内有可攻击的人" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YJlgjo9phD5dh0JxE-f-4" target="8YJlgjo9phD5dh0JxE-f-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8YJlgjo9phD5dh0JxE-f-4" value="EnemyIdleState" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-116" y="-341" width="108" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="8YJlgjo9phD5dh0JxE-f-9" value="敌人进入攻击范围" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YJlgjo9phD5dh0JxE-f-6" target="8YJlgjo9phD5dh0JxE-f-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8YJlgjo9phD5dh0JxE-f-6" value="EnemyChaseState" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="-341" width="108" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="8YJlgjo9phD5dh0JxE-f-11" value="自身血量归零" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YJlgjo9phD5dh0JxE-f-8" target="8YJlgjo9phD5dh0JxE-f-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YJlgjo9phD5dh0JxE-f-14" value="敌人脱离攻击范围但仍在视野内" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YJlgjo9phD5dh0JxE-f-8" target="8YJlgjo9phD5dh0JxE-f-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="443" y="-454.79998779296875" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="443" y="-414" />
+              <mxPoint x="209" y="-414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8YJlgjo9phD5dh0JxE-f-15" value="敌人脱离视野范围" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YJlgjo9phD5dh0JxE-f-8" target="8YJlgjo9phD5dh0JxE-f-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="443" y="-250" />
+              <mxPoint x="-62" y="-250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8YJlgjo9phD5dh0JxE-f-8" value="EnemyAttackState" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="-341" width="108" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8YJlgjo9phD5dh0JxE-f-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YJlgjo9phD5dh0JxE-f-10" target="8YJlgjo9phD5dh0JxE-f-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YJlgjo9phD5dh0JxE-f-10" value="EnemyDeadState" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="609" y="-341" width="108" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8YJlgjo9phD5dh0JxE-f-12" value="Destroy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="797" y="-341" width="108" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
