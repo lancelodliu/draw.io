@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T03:00:09.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="df7SBq0raW79awSGS5-e" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T03:02:14.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="N3k3xT87VMPxwUGnaVDG" version="24.5.5" type="github">
   <diagram name="第 1 页" id="wfZ_rL4CteSdYkBptZCC">
     <mxGraphModel dx="1012" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9EwHLKtkXMk9ry1v1o_7-1" value="Android" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="289" y="46" width="125.84" height="167" as="geometry" />
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-1" value="Android" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="253" y="46" width="178" height="167" as="geometry" />
         </mxCell>
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-2" value="Web Component&lt;div&gt;JS + HTML&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="393" y="275" width="107" height="72" as="geometry" />
@@ -13,17 +13,23 @@
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EwHLKtkXMk9ry1v1o_7-3" target="9EwHLKtkXMk9ry1v1o_7-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9EwHLKtkXMk9ry1v1o_7-3" value="iOS" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="478" y="46" width="125.83" height="167" as="geometry" />
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-3" value="iOS" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="478" y="46" width="178" height="167" as="geometry" />
         </mxCell>
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.308;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9EwHLKtkXMk9ry1v1o_7-4" target="9EwHLKtkXMk9ry1v1o_7-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-4" value="Android&lt;div&gt;WebView&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298.41999999999996" y="71" width="107" height="142" as="geometry" />
+          <mxGeometry x="262" y="71" width="107" height="139" as="geometry" />
         </mxCell>
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-5" value="iOS&lt;div&gt;WKWebView&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487.40999999999997" y="71" width="107" height="142" as="geometry" />
+          <mxGeometry x="487.41" y="71" width="107" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-9" value="Bridge API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="71" width="49" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-10" value="Bridge API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="71" width="49" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
