@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T03:08:51.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="HEYSFGgGXAZAd5M9aIsf" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T03:14:39.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="qPb8ElAbn-rXiGPoXNuP" version="24.5.5" type="github">
   <diagram name="第 1 页" id="wfZ_rL4CteSdYkBptZCC">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,14 +31,40 @@
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-10" value="Bridge API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="514" y="83" width="49" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-23" value="4. OnContentAvailable" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EwHLKtkXMk9ry1v1o_7-12" target="9EwHLKtkXMk9ry1v1o_7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-12" value="WebContentManager" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="205" y="462" width="140" height="50" as="geometry" />
+          <mxGeometry x="278" y="555" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-13" value="WebContentLoader" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="205" y="560" width="140" height="50" as="geometry" />
+          <mxGeometry x="278" y="713" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9EwHLKtkXMk9ry1v1o_7-14" value="WebViewClient&lt;div&gt;Bridge API&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="521" y="510" width="140" height="50" as="geometry" />
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-21" value="1. Register content available event" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EwHLKtkXMk9ry1v1o_7-14" target="9EwHLKtkXMk9ry1v1o_7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-22" value="5. invoke" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EwHLKtkXMk9ry1v1o_7-14" target="9EwHLKtkXMk9ry1v1o_7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-14" value="WebViewImp." style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="522" y="636" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-15" value="Local Cache" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="109" y="636" width="102" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-16" value="CDN" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281.40999999999997" y="404" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-18" value="2. Request content update" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.555;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9EwHLKtkXMk9ry1v1o_7-12" target="9EwHLKtkXMk9ry1v1o_7-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-19" value="3. Update" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9EwHLKtkXMk9ry1v1o_7-12" target="9EwHLKtkXMk9ry1v1o_7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-20" value="Load from" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9EwHLKtkXMk9ry1v1o_7-13" target="9EwHLKtkXMk9ry1v1o_7-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
