@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T03:31:08.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="d9QgNz4_77U3VU6rnayf" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T03:31:34.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="fA6px5fsf_oLec7NqmYw" version="24.5.5" type="github">
   <diagram name="第 1 页" id="wfZ_rL4CteSdYkBptZCC">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,20 +117,20 @@
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-37" value="MN123QWE..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310.75" y="1170" width="99.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9EwHLKtkXMk9ry1v1o_7-40" value="Signature" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-40" value="Signature" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="300.5" y="1253" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-42" value="Client side" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="22.5" y="1354" width="629.5" height="531" as="geometry" />
         </mxCell>
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-43" value="version.meta" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;" vertex="1" parent="1">
-          <mxGeometry x="433" y="1394" width="101" height="135" as="geometry" />
+          <mxGeometry x="366.65999999999997" y="1394" width="101" height="135" as="geometry" />
         </mxCell>
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-44" value="index.html" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;" vertex="1" parent="1">
-          <mxGeometry x="303" y="1394" width="101" height="135" as="geometry" />
+          <mxGeometry x="236.66" y="1394" width="101" height="135" as="geometry" />
         </mxCell>
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-45" value="index.js" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;" vertex="1" parent="1">
-          <mxGeometry x="176" y="1394" width="101" height="135" as="geometry" />
+          <mxGeometry x="109.66" y="1394" width="101" height="135" as="geometry" />
         </mxCell>
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-46" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="47.25" y="1546" width="580" height="165" as="geometry" />
@@ -165,8 +165,8 @@
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-55" value="MN123QWE..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="306.59" y="1738" width="99.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9EwHLKtkXMk9ry1v1o_7-56" value="Signature" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="544.5" y="1436.5" width="95" height="50" as="geometry" />
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-56" value="Signature" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="478.15999999999997" y="1436.5" width="95" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
