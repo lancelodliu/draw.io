@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T03:14:39.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="qPb8ElAbn-rXiGPoXNuP" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T03:24:33.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="NzZJ-kaFYj40aX2tNi9d" version="24.5.5" type="github">
   <diagram name="第 1 页" id="wfZ_rL4CteSdYkBptZCC">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,6 +65,30 @@
         </mxCell>
         <mxCell id="9EwHLKtkXMk9ry1v1o_7-20" value="Load from" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9EwHLKtkXMk9ry1v1o_7-13" target="9EwHLKtkXMk9ry1v1o_7-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-24" value="index.js" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;" vertex="1" parent="1">
+          <mxGeometry x="194" y="830" width="101" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-25" value="index.html" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;" vertex="1" parent="1">
+          <mxGeometry x="321" y="830" width="101" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-26" value="version.meta" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;" vertex="1" parent="1">
+          <mxGeometry x="451" y="830" width="101" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-27" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions" vertex="1" parent="1">
+          <mxGeometry x="75" y="1066" width="26" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-28" value="SHA256" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="58" y="999" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-29" value="ABCDEF..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="214.5" y="999" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-30" value="XYZ123D..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="999" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwHLKtkXMk9ry1v1o_7-31" value="JKJKJK..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="471.5" y="999" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
