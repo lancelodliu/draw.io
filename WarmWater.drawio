@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T14:50:09.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="W-o7Gt7IKo0Ilr2ZUrJ6" version="24.5.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-20T14:51:44.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="8Bzy-TzViOZTQSRzuMdr" version="24.5.5" type="github" pages="6">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -485,10 +485,19 @@
             <mxPoint x="241" y="487" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="H-EAs-Ec68ZQNydGrg-O-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=80;exitPerimeter=0;" edge="1" parent="1" source="H-EAs-Ec68ZQNydGrg-O-12" target="H-EAs-Ec68ZQNydGrg-O-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="809" />
+              <mxPoint x="1105" y="809" />
+              <mxPoint x="1105" y="357" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H-EAs-Ec68ZQNydGrg-O-12" value="AttackAdd10Buff" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="337" y="709" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H-EAs-Ec68ZQNydGrg-O-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.996;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H-EAs-Ec68ZQNydGrg-O-7" target="H-EAs-Ec68ZQNydGrg-O-12">
+        <mxCell id="H-EAs-Ec68ZQNydGrg-O-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.996;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="H-EAs-Ec68ZQNydGrg-O-7" target="H-EAs-Ec68ZQNydGrg-O-12">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="254" y="414" as="sourcePoint" />
             <mxPoint x="254" y="497" as="targetPoint" />
@@ -513,7 +522,7 @@
         <mxCell id="H-EAs-Ec68ZQNydGrg-O-24" value="+ BuffData: BuffData" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="H-EAs-Ec68ZQNydGrg-O-23">
           <mxGeometry y="26" width="208" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="H-EAs-Ec68ZQNydGrg-O-25" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="H-EAs-Ec68ZQNydGrg-O-23">
+        <mxCell id="H-EAs-Ec68ZQNydGrg-O-25" value="+ GenerateBuffInfo(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="H-EAs-Ec68ZQNydGrg-O-23">
           <mxGeometry y="52" width="208" height="26" as="geometry" />
         </mxCell>
         <mxCell id="H-EAs-Ec68ZQNydGrg-O-26" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="H-EAs-Ec68ZQNydGrg-O-23">
@@ -523,6 +532,16 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1288" y="308" as="sourcePoint" />
             <mxPoint x="1288" y="129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-EAs-Ec68ZQNydGrg-O-32" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="H-EAs-Ec68ZQNydGrg-O-23" target="MMoxc_SGv07QM_2hyyPH-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1193" y="408" as="sourcePoint" />
+            <mxPoint x="1024" y="521" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1130" y="370" />
+              <mxPoint x="1130" y="671" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
