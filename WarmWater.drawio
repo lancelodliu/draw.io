@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T09:26:00.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="BOI_7NJJgEjmK-IY8wxe" version="24.5.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-21T09:30:05.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="SWowHLcZwPjJTqA-y2Sl" version="24.5.5" type="github" pages="7">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -739,6 +739,23 @@
         </mxCell>
         <mxCell id="FGz2fATsIgTn_LbK4vkt-5" value="+ Owner: GameObject" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="FGz2fATsIgTn_LbK4vkt-1">
           <mxGeometry y="78" width="255" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FGz2fATsIgTn_LbK4vkt-10" value="&lt;span style=&quot;text-align: left;&quot;&gt;BaseDodgeModule&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-379" y="224" width="259" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="FGz2fATsIgTn_LbK4vkt-11" value="+ OnPerformed(BuildInfo): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="FGz2fATsIgTn_LbK4vkt-10">
+          <mxGeometry y="26" width="259" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FGz2fATsIgTn_LbK4vkt-13" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FGz2fATsIgTn_LbK4vkt-10" target="f5vrBz4CtHx_E0Go5ot4-1">
+          <mxGeometry x="0.3254" y="-2" width="160" relative="1" as="geometry">
+            <mxPoint x="-307" y="46" as="sourcePoint" />
+            <mxPoint x="-116" y="-27" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-249" y="160" />
+              <mxPoint x="-98" y="160" />
+            </Array>
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
