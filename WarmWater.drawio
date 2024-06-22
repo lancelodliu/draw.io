@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T01:53:38.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="miFQkDbA5_CchqtVo8gT" version="24.5.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-22T01:57:18.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="7a0lERnZVhnGqJ_9yzgz" version="24.5.5" type="github" pages="8">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -777,20 +777,44 @@
         <mxCell id="1uA0Jrekww1Y8dXPRJiy-4" value="ReadyToAttack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="-341" width="108" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="1uA0Jrekww1Y8dXPRJiy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1uA0Jrekww1Y8dXPRJiy-6" target="1uA0Jrekww1Y8dXPRJiy-7">
+        <mxCell id="1uA0Jrekww1Y8dXPRJiy-5" value="命中敌人/&lt;div&gt;碰到地图边界&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1uA0Jrekww1Y8dXPRJiy-6" target="1uA0Jrekww1Y8dXPRJiy-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1uA0Jrekww1Y8dXPRJiy-6" value="Attacking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-341" width="108" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="1uA0Jrekww1Y8dXPRJiy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1uA0Jrekww1Y8dXPRJiy-7" target="1uA0Jrekww1Y8dXPRJiy-8">
+        <mxCell id="1uA0Jrekww1Y8dXPRJiy-9" value="收剑" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1uA0Jrekww1Y8dXPRJiy-7" target="1uA0Jrekww1Y8dXPRJiy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1uA0Jrekww1Y8dXPRJiy-7" value="Attakced" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-341" width="108" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="1uA0Jrekww1Y8dXPRJiy-8" value="Retrieving" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1uA0Jrekww1Y8dXPRJiy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1uA0Jrekww1Y8dXPRJiy-8" target="1uA0Jrekww1Y8dXPRJiy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1uA0Jrekww1Y8dXPRJiy-12" value="SwordController&lt;div&gt;Update&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1uA0Jrekww1Y8dXPRJiy-11">
+          <mxGeometry x="-0.1081" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1uA0Jrekww1Y8dXPRJiy-8" value="ReadyToRetrieve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="748" y="-341" width="108" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="1uA0Jrekww1Y8dXPRJiy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1uA0Jrekww1Y8dXPRJiy-10" target="1uA0Jrekww1Y8dXPRJiy-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1046" y="-269" />
+              <mxPoint x="-62" y="-269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1uA0Jrekww1Y8dXPRJiy-14" value="SwordController&lt;div&gt;Update&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1uA0Jrekww1Y8dXPRJiy-13">
+          <mxGeometry x="0.0401" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1uA0Jrekww1Y8dXPRJiy-10" value="Retrieving" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="992" y="-341" width="108" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
