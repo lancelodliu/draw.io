@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T11:54:51.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="EjUin9PakyWFOkxj4oM4" version="24.6.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-06-27T11:56:22.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="2JtMl5LJ2rOdtCrn16GD" version="24.6.2" type="github" pages="10">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -946,7 +946,7 @@
             <mxPoint x="350" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tsXq1VlZvxtXywTWQFyM-22" value="use to create" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tsXq1VlZvxtXywTWQFyM-11" target="tsXq1VlZvxtXywTWQFyM-12">
+        <mxCell id="tsXq1VlZvxtXywTWQFyM-22" value="使用key来创建&lt;div&gt;在加上一些运行时变量如大小角度和时间&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tsXq1VlZvxtXywTWQFyM-11" target="tsXq1VlZvxtXywTWQFyM-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tsXq1VlZvxtXywTWQFyM-23" value="Set to runtime object&lt;div&gt;from launcher&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tsXq1VlZvxtXywTWQFyM-11" target="tsXq1VlZvxtXywTWQFyM-14">
@@ -1011,13 +1011,19 @@
         <mxCell id="tsXq1VlZvxtXywTWQFyM-33" value="onEnter&lt;div&gt;delegate&lt;br&gt;&lt;div&gt;implementation 1&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="510" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tsXq1VlZvxtXywTWQFyM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tsXq1VlZvxtXywTWQFyM-35" target="tsXq1VlZvxtXywTWQFyM-37">
+        <mxCell id="tsXq1VlZvxtXywTWQFyM-36" value="多个预先定义好的回调点实现&lt;div&gt;如造成伤害、减速、眩晕等&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tsXq1VlZvxtXywTWQFyM-35" target="tsXq1VlZvxtXywTWQFyM-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-60" y="549.8333333333335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tsXq1VlZvxtXywTWQFyM-35" value="DesignerScripts&lt;div&gt;.AoE&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="485" width="80" height="100" as="geometry" />
+          <mxGeometry x="-400" y="485" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tsXq1VlZvxtXywTWQFyM-39" value="包含多个Model" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tsXq1VlZvxtXywTWQFyM-38" target="tsXq1VlZvxtXywTWQFyM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsXq1VlZvxtXywTWQFyM-38" value="DesignerTables&lt;div&gt;.AoE&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="680" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
