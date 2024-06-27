@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T11:49:26.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="_m6douzBnDaadu11G3-V" version="24.6.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-06-27T11:50:13.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="L5NvFYyWitSmanG-zL5s" version="24.6.2" type="github" pages="10">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -955,7 +955,7 @@
         <mxCell id="tsXq1VlZvxtXywTWQFyM-12" value="AoeLauncher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="815" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tsXq1VlZvxtXywTWQFyM-21" value="Set effect and render" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tsXq1VlZvxtXywTWQFyM-13" target="tsXq1VlZvxtXywTWQFyM-14">
+        <mxCell id="tsXq1VlZvxtXywTWQFyM-21" value="设置位置和旋转" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tsXq1VlZvxtXywTWQFyM-13" target="tsXq1VlZvxtXywTWQFyM-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tsXq1VlZvxtXywTWQFyM-13" value="AoeState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
