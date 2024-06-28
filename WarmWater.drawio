@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T07:13:00.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="NefiS9bxySl_NA2eXW2j" version="24.6.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-06-28T07:15:51.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="hdapGzLE2LsEywtQLhp2" version="24.6.2" type="github" pages="11">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -863,6 +863,39 @@
         </mxCell>
         <mxCell id="1OiTq5wH_1JMPxI6vuvj-11" value="y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="57" y="-33" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-1" target="xqbY2Ha0NVTtwnKYo4Kr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-1" target="xqbY2Ha0NVTtwnKYo4Kr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-1" value="onCreate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="573" y="-63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-2" value="SearchAndFollowTarget&lt;div&gt;如果找不到就向着方向上直飞&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="773" y="-63" width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-4" target="xqbY2Ha0NVTtwnKYo4Kr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-4" target="xqbY2Ha0NVTtwnKYo4Kr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-4" value="onHit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="573" y="77" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-6" value="造成伤害&lt;div&gt;剑插在命中的怪物身上&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="773" y="77" width="208" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-8" target="xqbY2Ha0NVTtwnKYo4Kr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-8" value="收剑技能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="573" y="217" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-10" value="剑从怪物、地图边缘处消失回到玩家身上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="773" y="217" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
