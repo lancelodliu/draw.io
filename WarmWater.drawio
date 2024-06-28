@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T04:15:46.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Sbq8RNbY2Uf3Wg7Lu8TV" version="24.6.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-06-28T04:25:46.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="VUSU0wtUP_HA1WDTtl0W" version="24.6.2" type="github" pages="11">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1127,6 +1127,41 @@
         </mxCell>
         <mxCell id="hBDyM8X_Ik4s-J8QA-K6-26" value="CharacterState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="830" as="sourcePoint" />
+            <mxPoint x="990" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-39" value="有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hBDyM8X_Ik4s-J8QA-K6-32">
+          <mxGeometry x="-0.0792" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-35" value="没有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBDyM8X_Ik4s-J8QA-K6-33" target="hBDyM8X_Ik4s-J8QA-K6-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-37" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBDyM8X_Ik4s-J8QA-K6-33" target="hBDyM8X_Ik4s-J8QA-K6-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-33" value="旋转有没有输入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="910" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-34" value="face和move都设置成移动输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-36" value="move设置成移动&lt;div&gt;face设置成方向&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-41" value="没有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBDyM8X_Ik4s-J8QA-K6-38" target="hBDyM8X_Ik4s-J8QA-K6-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-38" value="移动有没有输入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="750" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-40" value="face和move都设置成旋转输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
