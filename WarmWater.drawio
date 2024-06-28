@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T07:15:51.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="hdapGzLE2LsEywtQLhp2" version="24.6.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-06-28T07:16:27.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="2pnnNssBiAdl9B35pT8C" version="24.6.2" type="github" pages="11">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -871,10 +871,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-1" value="onCreate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="573" y="-63" width="120" height="60" as="geometry" />
+          <mxGeometry x="751" y="4" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-2" value="SearchAndFollowTarget&lt;div&gt;如果找不到就向着方向上直飞&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="773" y="-63" width="202" height="60" as="geometry" />
+          <mxGeometry x="951" y="4" width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-4" target="xqbY2Ha0NVTtwnKYo4Kr-6">
           <mxGeometry relative="1" as="geometry" />
@@ -883,19 +883,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-4" value="onHit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="573" y="77" width="120" height="60" as="geometry" />
+          <mxGeometry x="751" y="144" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-6" value="造成伤害&lt;div&gt;剑插在命中的怪物身上&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="773" y="77" width="208" height="60" as="geometry" />
+          <mxGeometry x="951" y="144" width="208" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-8" target="xqbY2Ha0NVTtwnKYo4Kr-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-8" value="收剑技能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="573" y="217" width="120" height="60" as="geometry" />
+          <mxGeometry x="751" y="284" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-10" value="剑从怪物、地图边缘处消失回到玩家身上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="773" y="217" width="210" height="60" as="geometry" />
+          <mxGeometry x="951" y="284" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-12" target="xqbY2Ha0NVTtwnKYo4Kr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-12" value="onLearnSkill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="-3" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-13" value="生成指定数量的飞剑&lt;div&gt;一直跟随玩家&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="137" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
