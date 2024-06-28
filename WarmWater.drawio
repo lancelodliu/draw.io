@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T14:31:18.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="f-o9uTXfEzAGsW4GvLAF" version="24.6.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-06-28T04:14:34.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="f_gUZ00Nst7GrLM0kwyz" version="24.6.2" type="github" pages="11">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1029,7 +1029,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IXKSjF06FltYeSwQ8xta" name="Move And Face">
-    <mxGraphModel dx="1468" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1223" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1089,6 +1089,44 @@
         </mxCell>
         <mxCell id="hBDyM8X_Ik4s-J8QA-K6-16" value="8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBDyM8X_Ik4s-J8QA-K6-17" target="hBDyM8X_Ik4s-J8QA-K6-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-17" value="点击左键" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBDyM8X_Ik4s-J8QA-K6-18" target="hBDyM8X_Ik4s-J8QA-K6-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-27" value="add rotate order" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBDyM8X_Ik4s-J8QA-K6-18" target="hBDyM8X_Ik4s-J8QA-K6-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-18" value="OrderRotateTo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBDyM8X_Ik4s-J8QA-K6-20" target="hBDyM8X_Ik4s-J8QA-K6-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-20" value="CastSkill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBDyM8X_Ik4s-J8QA-K6-22" target="hBDyM8X_Ik4s-J8QA-K6-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-22" value="CreateTimeline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-28" value="add animation order" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBDyM8X_Ik4s-J8QA-K6-24" target="hBDyM8X_Ik4s-J8QA-K6-26">
+          <mxGeometry x="0.4019" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-24" value="CasterPlayAnim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBDyM8X_Ik4s-J8QA-K6-26" value="CharacterState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
