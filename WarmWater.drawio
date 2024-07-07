@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T07:16:27.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="2pnnNssBiAdl9B35pT8C" version="24.6.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-07T05:55:21.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="0Lds5uksJ1qFn4Or89Aq" version="24.6.4" type="github" pages="11">
   <diagram name="SceneState" id="RjpetJTwipTLnsahrz_m">
     <mxGraphModel dx="1468" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -761,7 +761,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k9G9L6Ifed-pM97M0dj0" name="Sword">
-    <mxGraphModel dx="1868" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2108" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -864,47 +864,67 @@
         <mxCell id="1OiTq5wH_1JMPxI6vuvj-11" value="y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="57" y="-33" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-1" target="xqbY2Ha0NVTtwnKYo4Kr-2">
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-1" target="xqbY2Ha0NVTtwnKYo4Kr-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-1" target="xqbY2Ha0NVTtwnKYo4Kr-4">
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-1" target="xqbY2Ha0NVTtwnKYo4Kr-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-1" value="onCreate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="751" y="4" width="120" height="60" as="geometry" />
+        <mxCell id="YeN4HQJY8SArQJHYU_CH-2" value="HitObstacle" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-1" target="YeN4HQJY8SArQJHYU_CH-1">
+          <mxGeometry x="0.4365" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-2" value="SearchAndFollowTarget&lt;div&gt;如果找不到就向着方向上直飞&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="951" y="4" width="202" height="60" as="geometry" />
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-1" value="&lt;div&gt;Bullet&lt;/div&gt;onCreate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="-72" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-4" target="xqbY2Ha0NVTtwnKYo4Kr-6">
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-2" value="SearchAndFollowTarget&lt;div&gt;如果找不到就向着方向上直飞&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="-72" width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-4" target="xqbY2Ha0NVTtwnKYo4Kr-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-4" target="xqbY2Ha0NVTtwnKYo4Kr-8">
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-4" target="xqbY2Ha0NVTtwnKYo4Kr-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-4" value="onHit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="751" y="144" width="120" height="60" as="geometry" />
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-4" value="onHit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="235" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-6" value="造成伤害&lt;div&gt;剑插在命中的怪物身上&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="951" y="144" width="208" height="60" as="geometry" />
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-6" value="Create Sight Effect" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="235" width="208" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-8" target="xqbY2Ha0NVTtwnKYo4Kr-10">
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-8" target="xqbY2Ha0NVTtwnKYo4Kr-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-8" value="收剑技能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="751" y="284" width="120" height="60" as="geometry" />
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-8" value="RetrieveSwords" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="375" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-10" value="剑从怪物、地图边缘处消失回到玩家身上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="951" y="284" width="210" height="60" as="geometry" />
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-10" value="Collect all AoEs and Sight Effects" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="375" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-12" target="xqbY2Ha0NVTtwnKYo4Kr-13">
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xqbY2Ha0NVTtwnKYo4Kr-12" target="xqbY2Ha0NVTtwnKYo4Kr-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-12" value="onLearnSkill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-12" value="onLearnSkill" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="-3" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-13" value="生成指定数量的飞剑&lt;div&gt;一直跟随玩家&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xqbY2Ha0NVTtwnKYo4Kr-13" value="生成指定数量的飞剑&lt;div&gt;一直跟随玩家&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="137" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YeN4HQJY8SArQJHYU_CH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YeN4HQJY8SArQJHYU_CH-1" target="YeN4HQJY8SArQJHYU_CH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YeN4HQJY8SArQJHYU_CH-1" value="onRemove" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YeN4HQJY8SArQJHYU_CH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YeN4HQJY8SArQJHYU_CH-3" target="YeN4HQJY8SArQJHYU_CH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YeN4HQJY8SArQJHYU_CH-3" value="CreateAoE&lt;div&gt;DT_AoE_SwordOnGround&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="100" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YeN4HQJY8SArQJHYU_CH-5" value="&lt;div&gt;RotateAndLandSword&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="100" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
